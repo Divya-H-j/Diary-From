@@ -1,10 +1,15 @@
 package com.Project.Dairy.Project.model;
 
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.RequestMapping;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
+@CrossOrigin(origins="http://localhost:4200")
+@RequestMapping("/Registration/")
 @Entity
 public class Registration {
 @Id

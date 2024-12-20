@@ -1,0 +1,14 @@
+package com.Project.Dairy.Project.service;
+
+import java.util.List;
+
+import com.Project.Dairy.Project.model.Feedback;
+import com.Project.Dairy.Project.model.Registration;
+
+public interface FeedbackService {
+ 
+	Feedback insertrecord(Feedback r);
+	List<Registration> getAll();
+	void del(int ri);
+	Feedback updaterecord(int i,Feedback r);
+}
