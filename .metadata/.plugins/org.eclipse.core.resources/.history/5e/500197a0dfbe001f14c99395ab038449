@@ -1,0 +1,84 @@
+package com.Project.Dairy.Project.model;
+
+import java.util.Set;
+
+import javax.persistence.CascadeType;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.JoinTable;
+import javax.persistence.ManyToMany;
+
+import org.hibernate.annotations.ManyToAny;
+
+import jakarta.annotation.Generated;
+
+@jakarta.persistence.Entity
+public class Products {
+private static final String GenerationType = null;
+@jakarta.persistence.Id
+@Generated(strategy=GenerationType.AUTO)
+private long id;
+private String Productsename,duration,prise;
+
+@ManyToMany(fetch=FetchType.EAGER,cascade=CascadeType.ALL)
+@JoinTable(name="Products_images",joinColumns= {
+		@JoinColumn(name="Products_id")
+},
+inverseJoinColumns= {
+		@JoinColumn(name="image_id")
+}
+)
+private Set<ImageModel> ProductsImages;
+private String Productsname;
+
+
+
+public Set<ImageModel> getCourseImages() {
+	return ProductsImages;
+}
+public void setCourseImages(Set<ImageModel> courseImages) {
+	this.ProductsImages = courseImages;
+}
+public Products() {
+	super();
+	// TODO Auto-generated constructor stub
+}
+public Products(String Productsname, String duration, String prise) {
+	super();
+	this.Productsname = Productsname;
+	this.duration = duration;
+	this.prise = prise;
+	
+}
+public long getId() {
+	return id;
+}
+public void setId(long id) {
+	this.id = id;
+}
+public String getCoursename() {
+	return Productsname;
+}
+public void setCoursename(String coursename) {
+	this.Productsname = coursename;
+}
+public String getDuration() {
+	return duration;
+}
+public void setDuration(String duration) {
+	this.duration = duration;
+}
+public String getFees() {
+	return prise;
+}
+public void setFees(String fees) {
+	this.prise = prise;
+}
+
+
+
+}
