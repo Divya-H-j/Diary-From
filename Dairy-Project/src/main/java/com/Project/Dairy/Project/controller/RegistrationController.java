@@ -17,7 +17,7 @@ import com.Project.Dairy.Project.model.Registration;
 import com.Project.Dairy.Project.service.RegistrationService;
 
 
-@CrossOrigin(origins="http://localhost:9090")
+@CrossOrigin(origins="http://localhost:4200")
 @RequestMapping("/registration/")
 @RestController
 public class RegistrationController        {

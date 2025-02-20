@@ -1,2 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.service.FeedbackService"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.model.Feedback"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.service.ContactsService"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.model.Contacts"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.repository.ProductsRepository"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.model.Products"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.model.AdminLogin"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.repository.AdminLoginRepository"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.service.AdminLoginService"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.JoinColumn"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.CascadeType"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.ManyToMany"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.FetchType"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.JoinTable"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.Filework.FileStorageService"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.model.Prodect"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.model.ImageModel"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.Filework.FileStorageProdect"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.Filework.FileStorageProperties"/>
+    <fullyQualifiedTypeName name="com.Project.Dairy.Project.repository.ProdectRepository"/>
+</qualifiedTypeNameHistroy>

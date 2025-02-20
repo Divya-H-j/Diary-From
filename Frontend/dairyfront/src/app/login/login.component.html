@@ -15,19 +15,16 @@
 
         </div>
         <div class="col-sm-9">
-            <h1 class="text-center">Login Here</h1>
-            <form>
-               
-                
-                
-                
+            <h1 class="text-center Login">Login Here</h1>
+            <form (ngSubmit)="submitdata()">
+    
                 <div class="form-group">
                     <label for="emailid">Email Address:</label>
-                    <input type="email" class="form-control" id="emailid" name="emailid">
+                    <input type="email" class="form-control" id="emailid" name="emailid" [(ngModel)]="reg.emailid">
                 </div>
                 <div class="form-group">
                     <label for="password">Password:</label>
-                    <input type="password" class="form-control" id="password" name="password">
+                    <input type="password" class="form-control" id="password" name="password" [(ngModel)]="reg.password">
                 </div>
                 
                 <button type="submit" class="btn btn-primary">Submit</button>

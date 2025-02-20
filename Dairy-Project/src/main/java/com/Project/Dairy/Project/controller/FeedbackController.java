@@ -1,7 +1,5 @@
 package com.Project.Dairy.Project.controller;
-
 import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -12,12 +10,10 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
 import com.Project.Dairy.Project.model.Feedback;
-
 import com.Project.Dairy.Project.service.FeedbackService;
 
-@CrossOrigin(origins="http://localhost:9090")
+@CrossOrigin(origins="http://localhost:4200")
 @RequestMapping("/feedback/")
 @RestController
 public class FeedbackController {

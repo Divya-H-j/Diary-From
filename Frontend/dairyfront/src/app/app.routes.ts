@@ -7,6 +7,9 @@ import { AdminLoginComponent } from './admin-login/admin-login.component';
 import { FeedbackComponent } from './feedback/feedback.component';
 import { ViewfeedbackComponent } from './viewfeedback/viewfeedback.component';
 import { ViewRegisterComponent } from './view-register/view-register.component';
+import { ManageprodectComponent } from './manageprodect/manageprodect.component';
+import { ContactsComponent } from './contacts/contacts.component';
+import { AboutComponent } from './about/about.component';
 
 export const routes: Routes = [
     {path:'',component:HomeComponent},
@@ -15,6 +18,10 @@ export const routes: Routes = [
     {path:'login',component:LoginComponent},
     {path:'adminlogin',component:AdminLoginComponent},
     {path:'feedback',component:FeedbackComponent},
-    {path:'viewfeedback',component:ViewfeedbackComponent},
-    {path:'viewregister',component:ViewRegisterComponent}
+    {path:'vfeedback',component:ViewfeedbackComponent},
+    {path:'vreg',component:ViewRegisterComponent},
+    {path:'mprodect',component:ManageprodectComponent},
+    {path:'contacts',component:ContactsComponent},
+    {path:'about',component:AboutComponent},
+    
 ];

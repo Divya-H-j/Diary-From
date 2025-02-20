@@ -1,19 +1,22 @@
 <nav class="navbar navbar-inverse">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" routerLink="/">Dairy Farm</a>
-      </div>
-      <div class="collapse navbar-collapse" id="myNavbar">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" routerLink="/">Dairy Farm</a>
+    </div>
+    <div [ngSwitch]="menutype">
+      <div class="collapse navbar-collapse" id="myNavbar" *ngSwitchCase="'guest'">
         <ul class="nav navbar-nav">
           <li class="active"><a routerLink="/">Home</a></li>
+          <li><a routerLink="/about">About</a></li>
           <li><a routerLink="/Prodect">Prodect</a></li>
+          <li><a routerLink="/contacts">Contact</a></li>
           <li><a routerLink="/feedback">Feedback</a></li>
-         
+
         </ul>
         <ul class="nav navbar-nav navbar-right">
           <li><a routerLink="/register"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
@@ -21,5 +24,28 @@
           <li><a routerLink="/adminlogin"><span class="glyphicon glyphicon-log-in"></span>Admin-Login</a></li>
         </ul>
       </div>
+      <div class="collapse navbar-collapse" id="myNavbar" *ngSwitchCase="'user'">
+        <ul class="nav navbar-nav">
+          <li class="active"><a routerLink="/">Home</a></li>
+          <li><a routerLink="/Prodect">Prodect</a></li>
+          <li><a routerLink="/feedback">Feedback</a></li>
+          <li><a routerLink="/enquiry">Enquiry</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a (click)="logout()"><span class="glyphicon glyphicon-logout"></span> Logout</a></li>
+        </ul>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar" *ngSwitchCase="'admin'">
+        <ul class="nav navbar-nav">
+          <li class="active"><a routerLink="/">Home</a></li>
+          <li><a routerLink="/mprodect">Manag Prodect</a></li>
+          <li><a routerLink="/vfeedback">View Feedback</a></li>
+          <li><a routerLink="/vreg">View Registrations</a></li>
+        </ul>
+        <ul class="door nav navbar-nav navbar-right">
+          <li><a (click)="alogout()"><span class="glyphicon glyphicon-logout"></span> Logout</a></li>
+        </ul>
+      </div>
     </div>
-  </nav>
+  </div>
+</nav> 
