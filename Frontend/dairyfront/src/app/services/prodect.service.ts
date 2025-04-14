@@ -9,7 +9,7 @@ import { Prodect } from '../models/prodect';
 })
  export class ProdectService {
  
-  private baseUrl = 'http://localhost:9090/prodects/prodect';
+  private baseUrl = 'http://localhost:9090/prodect/prodects';
 
   constructor(private http: HttpClient) { }
  

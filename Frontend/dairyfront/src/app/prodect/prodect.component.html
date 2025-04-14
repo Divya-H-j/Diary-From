@@ -1,0 +1,132 @@
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4" *ngFor="let p of Prodect">
+            <div class="thumbnail">
+                <img src="http://localhost:9090/prodects/downloadFile/{{p.prodectImages[0].name}}">
+                <div class="caption">
+                    <h3>prodectname: {{p.prodectname}}</h3>
+                    <h4>Prise: {{p.prise}}</h4>
+                    <div [hidden]="!login">
+                        <input type="button" value="Enroll Now" class="btn btn-primary" (click)="enroll(p.id)">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Products Section -->
+<div class="container product-section">
+    <h1 class="text-center">Our Products</h1>
+    <p class="text-center">Explore our range of fresh and organic dairy products.</p>
+    
+    <div class="row">
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="Amrakhand.jpg" alt="Fresh Milk" class="img-responsive">
+                <h4 class="text-center">Amrakhand</h4>
+                <p class="text-center">Pure and fresh milk from our farm.</p>
+               
+                <button (click)="navigatetoOrder()" class="btn btn-primary book-button" >Order Now</button>
+                
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="anjir-rabadi2.jpg" alt="Cheese" class="img-responsive" style="height: 60%;">
+                <h4 class="text-center">Anjir-Rabadi</h4>
+                <p class="text-center">Delicious cheese made from our fresh milk.</p>
+                <button class="btn btn-primary book-button"(click)="navigatetoOrder()" >Order Now</button>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="anjir-rabdi.jpg" alt="Yogurt" class="img-responsive">
+                <h4 class="text-center">Rabadi</h4>
+                <p class="text-center">Healthy yogurt made from our fresh milk.</p>
+                <button class="btn btn-primary book-button" (click)="navigatetoOrder()" >Order Now</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="butter.jpg" alt="Butter" class="img-responsive">
+                <h4 class="text-center">Butter</h4>
+                <p class="text-center">Creamy butter made from our fresh cream.</p>
+                <button class="btn btn-primary book-button" (click)="navigatetoOrder()" >Order Now</button>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="Basundi.jpg" alt="Cream" class="img-responsive">
+                <h4 class="text-center">Basundi</h4>
+                <p class="text-center">Rich cream perfect for cooking and baking.</p>
+                <button class="btn btn-primary book-button" (click)="navigatetoOrder()" >Order Now</button>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="gulabjam.jpg" alt="Ice Cream" class="img-responsive">
+                <h4 class="text-center">gulabjam</h4>
+                <p class="text-center">Delicious ice cream made from our fresh milk.</p>
+                <button class="btn btn-primary book-button" (click)="navigatetoOrder()" >Order Now</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="butter.jpg" alt="Butter" class="img-responsive">
+                <h4 class="text-center">Butter</h4>
+                <p class="text-center">Creamy butter made from our fresh cream.</p>
+                <button class="btn btn-primary book-button" (click)="navigatetoOrder()" >Order Now</button>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="Basundi.jpg" alt="Cream" class="img-responsive">
+                <h4 class="text-center">Basundi</h4>
+                <p class="text-center">Rich cream perfect for cooking and baking.</p>
+                <button class="btn btn-primary book-button" (click)="navigatetoOrder()" >Order Now</button>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="gulabjam.jpg" alt="Ice Cream" class="img-responsive">
+                <h4 class="text-center">gulabjam</h4>
+                <p class="text-center">Delicious ice cream made from our fresh milk.</p>
+                <button class="btn btn-primary book-button" (click)="navigatetoOrder()" >Order Now</button>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="butter.jpg" alt="Butter" class="img-responsive">
+                <h4 class="text-center">Butter</h4>
+                <p class="text-center">Creamy butter made from our fresh cream.</p>
+                <button class="btn btn-primary book-button" (click)="navigatetoOrder()" >Order Now</button>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="Basundi.jpg" alt="Cream" class="img-responsive">
+                <h4 class="text-center">Basundi</h4>
+                <p class="text-center">Rich cream perfect for cooking and baking.</p>
+                <button class="btn btn-primary book-button" (click)="navigatetoOrder()" >Order Now</button>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="product-box">
+                <img src="gulabjam.jpg" alt="Ice Cream" class="img-responsive">
+                <h4 class="text-center">gulabjam</h4>
+                <p class="text-center">Delicious ice cream made from our fresh milk.</p>
+                <button class="btn btn-primary book-button" (click)="navigatetoOrder()" >Order Now</button>
+            </div>
+        </div>
+    </div>
+</div>
+

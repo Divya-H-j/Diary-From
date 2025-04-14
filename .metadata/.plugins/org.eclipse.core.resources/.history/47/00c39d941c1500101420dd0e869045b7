@@ -1,0 +1,78 @@
+package com.Project.Dairy.Project.model;
+
+import java.util.List;
+import java.util.Set;
+
+
+
+
+import jakarta.persistence.CascadeType;
+import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.JoinTable;
+import jakarta.persistence.ManyToMany;
+import jakarta.persistence.JoinColumn;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+
+
+@Entity
+public class Prodect {
+@Id
+@GeneratedValue(strategy=GenerationType.AUTO)
+private long id;
+
+private String prodectname,prise;
+
+private List<String> prodectImages;
+
+@JsonProperty("prodectImages")
+public List<String> getProdectImages1() {
+    return prodectImages;
+}
+
+// Remove or rename the other getter method
+// public List<String> getprodectImages() {
+//     return prodectImages;
+// }
+
+
+
+
+public Prodect() {
+	super();
+	// TODO Auto-generated constructor stub
+}
+public Prodect(long id, String prodectname, String prise, Set<ImageModel> prodectImages) {
+	super();
+	this.id = id;
+	this.prodectname = prodectname;
+	this.prise = prise;
+	
+}
+public long getId() {
+	return id;
+}
+public void setId(long id) {
+	this.id = id;
+}
+public String getProdectname() {
+	return prodectname;
+}
+public void setProdectname(String prodectname) {
+	this.prodectname = prodectname;
+}
+public String getPrise() {
+	return prise;
+}
+public void setPrise(String prise) {
+	this.prise = prise;
+}
+
+
+
+
+}

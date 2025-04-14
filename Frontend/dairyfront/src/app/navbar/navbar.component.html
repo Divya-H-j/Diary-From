@@ -1,4 +1,4 @@
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -6,46 +6,81 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" routerLink="/">Dairy Farm</a>
+      <div class="clv_left_header ">
+        <div class="clv_logo">
+          <a href="index.html"><img src="logo1.png" alt="dairy-farming-logo" /></a>
+        </div>
+      </div>
     </div>
     <div [ngSwitch]="menutype">
-      <div class="collapse navbar-collapse" id="myNavbar" *ngSwitchCase="'guest'">
+      <div class="collapse navbar-collapse navbar-right" id="myNavbar" *ngSwitchCase="'guest'">
         <ul class="nav navbar-nav">
-          <li class="active"><a routerLink="/">Home</a></li>
+          <li><a routerLink="/"> Home</a></li>
           <li><a routerLink="/about">About</a></li>
-          <li><a routerLink="/Prodect">Prodect</a></li>
+          <li><a routerLink="/service">Service</a></li>
+          <li><a routerLink="/Products">Product</a></li>
+
+
+          <li><a routerLink="/gallery">Gallary</a></li>
           <li><a routerLink="/contacts">Contact</a></li>
-          <li><a routerLink="/feedback">Feedback</a></li>
+
 
         </ul>
-        <ul class="nav navbar-nav navbar-right">
-          <li><a routerLink="/register"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-          <li><a routerLink="/login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-          <li><a routerLink="/adminlogin"><span class="glyphicon glyphicon-log-in"></span>Admin-Login</a></li>
+
+        
+  
+
+        <form class="navbar-form navbar-left" action="/">
+          <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search">
+            <div class="input-group-btn">
+              <button class="btn btn-default" type="submit">
+                <i class="glyphicon glyphicon-search"></i>
+              </button>
+            </div>
+          </div>
+        </form>
+
+
+        <ul class="nav navbar-nav ">
+
+          <li><a routerLink="/register"><span class="glyphicon glyphicon-user"></span> Sing in</a></li>
+
+
         </ul>
+
+
       </div>
+
+
       <div class="collapse navbar-collapse" id="myNavbar" *ngSwitchCase="'user'">
         <ul class="nav navbar-nav">
-          <li class="active"><a routerLink="/">Home</a></li>
-          <li><a routerLink="/Prodect">Prodect</a></li>
+          <li><a routerLink="/">Home</a></li>
+          <li><a routerLink="/Prodect">Product</a></li>
           <li><a routerLink="/feedback">Feedback</a></li>
-          <li><a routerLink="/enquiry">Enquiry</a></li>
+          <li><a routerLink="/gallery">Gallary</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
           <li><a (click)="logout()"><span class="glyphicon glyphicon-logout"></span> Logout</a></li>
+
         </ul>
       </div>
       <div class="collapse navbar-collapse" id="myNavbar" *ngSwitchCase="'admin'">
         <ul class="nav navbar-nav">
-          <li class="active"><a routerLink="/">Home</a></li>
-          <li><a routerLink="/mprodect">Manag Prodect</a></li>
+          <li><a routerLink="/">Home</a></li>
+        
           <li><a routerLink="/vfeedback">View Feedback</a></li>
           <li><a routerLink="/vreg">View Registrations</a></li>
+          <li><a routerLink="/vcon">View Contacts</a></li>
+          <li><a routerLink="/vbuy">View BuyNow</a></li>
         </ul>
         <ul class="door nav navbar-nav navbar-right">
           <li><a (click)="alogout()"><span class="glyphicon glyphicon-logout"></span> Logout</a></li>
         </ul>
       </div>
     </div>
+
   </div>
-</nav> 
+</nav>
+
+

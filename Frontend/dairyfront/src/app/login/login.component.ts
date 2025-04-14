@@ -5,6 +5,7 @@ import { Registration } from '../models/registration';
 import { subscribeOn } from 'rxjs';
 import { Route, Router } from '@angular/router';
 
+
 @Component({
   selector: 'app-login',
   imports: [FormsModule],

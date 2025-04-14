@@ -1,33 +1,20 @@
 
-<div class="container-fluid">
+<div class="container-fluid feedback-section">
     <div class="row">
-        <div class="col-sm-3">
-            <h3 class="page-header">
-                Popular Prodects
-            </h3>
-            <ul class="list-group">
-                <li class="list-group-item">Amrakhand</li>
-                <li class="list-group-item">Panner</li>
-                <li class="list-group-item">Basundi</li>
-                <li class="list-group-item">Dahi</li>
-                <li class="list-group-item">khawa</li>
-                <li class="list-group-item">Tup</li>
-            </ul>
-
-        </div>
-        <div class="col-sm-9">
+        
+        <div class="col-sm-12">
             <h1 class="text-center">Valuable Feedback</h1>
             <form (ngSubmit)="submitdata()">
                 <div class="form-group">
                     <label for="emailid">EmailId</label>
                     <textarea type="emailid" class="form-control" id="emailid" name="emailid" [(ngModel)]="fd.emailid"
-                      placeholder="Enter Email " ></textarea> 
+                      placeholder="Enter Email "required ></textarea> 
                 </div>
                 
                 <div class="form-group">
                     <label for="message">Message:</label>
                     <textarea type="text" class="form-control" id="message" name="message" [(ngModel)]="fd.message"
-                      placeholder="Enter Message Here" ></textarea> 
+                      placeholder="Enter Message Here" required></textarea> 
                 </div>
             
                 <button type="submit" class="btn btn-primary" >Submit</button>

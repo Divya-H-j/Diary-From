@@ -1,0 +1,88 @@
+package com.Project.Dairy.Project.model;
+
+import java.util.Set;
+
+
+
+
+import jakarta.persistence.CascadeType;
+import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.JoinTable;
+import jakarta.persistence.ManyToMany;
+import jakarta.persistence.JoinColumn;
+
+
+
+@Entity
+public class Prodect {
+@Id
+@GeneratedValue(strategy=GenerationType.AUTO)
+private long id;
+
+private String prodectname,prise;
+
+@ManyToMany(fetch=FetchType.EAGER,cascade=CascadeType.ALL)
+@JoinTable(name="prodectImages",joinColumns= {
+		@JoinColumn(name="prodect_id")
+},
+inverseJoinColumns= {
+		@JoinColumn(name="image_id")
+}
+)
+private Set<ImageModel> prodectImages;
+
+
+
+public Set<ImageModel> getprodectImages() {
+	return prodectImages;
+}
+public void setprodectImages(Set<ImageModel> prodectImages) {
+	this.prodectImages = prodectImages;
+}
+
+
+
+
+
+
+
+
+
+public Prodect() {
+	super();
+	// TODO Auto-generated constructor stub
+}
+public Prodect(long id, String prodectname, String prise, Set<ImageModel> prodectImages) {
+	super();
+	this.id = id;
+	this.prodectname = prodectname;
+	this.prise = prise;
+	this.prodectImages = prodectImages;
+}
+public long getId() {
+	return id;
+}
+public void setId(long id) {
+	this.id = id;
+}
+public String getProdectname() {
+	return prodectname;
+}
+public void setProdectname(String prodectname) {
+	this.prodectname = prodectname;
+}
+public String getPrise() {
+	return prise;
+}
+public void setPrise(String prise) {
+	this.prise = prise;
+}
+
+
+
+
+}

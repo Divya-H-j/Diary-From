@@ -33,14 +33,14 @@ export class ManageprodectComponent {
 
     const formData = this.prepareFormData(this.prodect);
     this.prodectService.createProdect(formData).subscribe(data => {
-      if (data != null) {
+      if (data != null) 
+        {
         alert("Prodect added successfully")
         console.log(data)
         this.gotoList();
       }
     },
-      error => {
-        console.log(error);
+      error =>{ console.log(error);
         this.errordata = error;
 
       })

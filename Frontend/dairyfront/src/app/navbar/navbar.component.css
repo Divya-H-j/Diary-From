@@ -1,1 +1,150 @@
+.nav {
+    margin-top: 10px;
+    margin-bottom: 10PX;
+  
+   
+
+}
+
+.navbar-form {
+    margin-top: 19PX;
+}
+
+.navbar {
+    background-color: white;
+    border: 2px solid white;
+    padding: 5px 5px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    z-index: 1000;
+    transition: background-color 0.3s ease;
+}
+
+.container-fluid {
+    display: contents;
+    width: 100%;
+    justify-content: space-between;
+
+
+}
+
+.container {
+
+
+    margin: 0 auto;
+    /* Center align */
+    position: sticky;
+
+}
+
+.clv_logo img {
+    height: 40px;
+    margin-top: 10px;
+    padding-left: 70px;
+
+
+}
+
+.btnd {
+    margin-top: 15PX;
+    margin-bottom: 10PX;
+}
+
+/* Navbar Links */
+.navbar-nav>li>a {
+
+    color: black;
+    /* Light text color */
+    padding: 20px;
+    /* Padding for links */
+    transition: color 0.3s;
+    /* Smooth color transition */
+    font-size: larger;
+
+}
+
+.navbar-nav>li>a:hover {
+    color: black;
+    /* Change color on hover */
+
+}
+
+/* Active Link Styles */
+.navbar-nav>li.active>a {
+    color: black;
+    /* Highlight active link */
+
+}
+
+/* Control Styles */
+.navbar-toggle {
+    border-color: #efe9e1;
+    /* Border color for toggle button */
+}
+
+.icon-bar {
+    background-color: #efe9e1;
+    /* Color of the bars in the toggle button */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1000%) {
+    .navbar-nav {
+        text-align: center;
+        /* Center align nav items on mobile */
+    }
+}
+
+@media only screen and (max-width: 960px) {}
+
+@media only screen and (max-width: 768px) {}
+
+.image-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+}
+
+.navbar {
+    position:fixed;
+    overflow: hidden;
+    top: 30px;
+    left: 30px;
+    right: 30px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
     
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #333;
+    padding: 10px;
+    margin: 0 5px;
+    float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+
+
+/* Navbar links on mouse-over */
+.navbar a:hover {
+    background-color: green;
+}
+

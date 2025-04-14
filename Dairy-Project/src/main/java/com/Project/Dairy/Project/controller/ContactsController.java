@@ -19,7 +19,7 @@ import com.Project.Dairy.Project.service.ContactsService;
 
 
 @CrossOrigin(origins="http://localhost:4200")
-@RequestMapping("/contacts/")
+@RequestMapping("/contact/")
 @RestController
 public class ContactsController {
 	

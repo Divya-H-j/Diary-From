@@ -4,5 +4,5 @@ export class Prodect {
     id:any;
     prodectname:any;
     prise:any;
-    prodectImages:FileHandle[]=[];
+    prodectImages:FileHandle [] = [] ;
 }

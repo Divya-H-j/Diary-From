@@ -1,0 +1,118 @@
+/* Product Box Styles */
+.product-box {
+    background-color: #fff; /* White background for the box */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    transition: transform 0.3s, box-shadow 0.3s; /* Smooth transition for hover effects */
+    padding: 20px; /* Padding inside the box */
+    text-align: center; /* Center align text */
+}
+
+.product-box:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); /* Darker shadow on hover */
+}
+
+.product-image {
+    width: 80%; /* Image width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.product-title {
+    color: rgb(82, 14, 82);; /* Dark color for the title */
+    margin-top: 15px; /* Space above the title */
+}
+.container
+{
+  margin-top: 20px;
+    color:rgb(82, 14, 82);
+
+}
+.clv_underline{
+    margin: auto;
+}
+/* Responsive Adjustments */
+@media (max-width: 1000%) {
+    .navbar-nav {
+        text-align: center;
+        /* Center align nav items on mobile */
+    }
+}
+
+.clv_heading{
+    text-align: center;
+    color: rgb(82, 14, 82);;
+}
+.product-box {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    background-color: #fff; /* White background for product boxes */
+   
+}
+.product-image {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+.dairy_about_inner {
+    padding: 50px 0;
+}
+.about_img {
+    border: 5px solid  #fff; /* Shevali color border */
+    border-radius: 10px;
+    overflow: hidden;
+}
+.about_img img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s;
+}
+.about_img img:hover {
+    transform: scale(1.05); /* Zoom effect on hover */
+}
+.about_content {
+    background-color: #fff;
+    padding: 55px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.about_heading h2 {
+    font-size: 2.5rem; /* Larger heading */
+    
+}
+.clv_btn2 {
+    background-color: #fff; /* Shevali color */
+    color:green;
+    border: 5px solid  #fff; /* Shevali color border */
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+   
+}
+.clv_btn2:hover {
+    background-color:  #fff; /* Darker shade on hover */
+}
+
+.map iframe {
+    width: 100%;
+    height: 80%;
+}
+
+.container{
+    padding: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+    
+.ft{
+    position:fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 70px;
+}
+

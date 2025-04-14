@@ -1,0 +1,42 @@
+
+
+/* Feedback Section Styles */
+.feedback-section {
+    padding: 40px 20px; 
+    background-color: #fff; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+    margin: 20px auto; 
+    max-width: 600px; 
+}
+
+.feedback-section h1 {
+    color:black; 
+    margin-bottom: 20px; 
+}
+
+.form-group label {
+    color:black; 
+}
+
+.form-control {
+    border-radius: 5px; 
+    border: 1px solid #ccc; 
+    transition: border-color 0.3s; 
+}
+
+.form-control:focus {
+    border-color: cornflowerblue; 
+    box-shadow: 0 0 5px rgba(114, 56, 61, 0.5);
+}
+
+.btn-primary {
+    background-color:cornflowerblue; 
+    border: none;
+    border-radius: 5px; 
+    transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+    background-color:cornflowerblue;
+}

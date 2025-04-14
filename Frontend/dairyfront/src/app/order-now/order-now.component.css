@@ -1,0 +1,25 @@
+
+
+.product-card {
+    margin-bottom: 30px; 
+    border: 1px solid #ddd; 
+    border-radius: 10px; 
+    transition: transform 0.2s; 
+}
+
+.product-card:hover {
+    transform: scale(1.05); 
+}
+
+.price {
+    font-weight: bold; 
+    color: #28a745; 
+}
+
+.rating {
+    color: #ffc107; 
+}
+.card-img-top{
+    padding: 25px;
+    text-align: center;
+}

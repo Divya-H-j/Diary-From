@@ -1,0 +1,2338 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://katrajdairy.com/xmlrpc.php">
+					<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+				<title>Katrajdairy</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Katrajdairy &raquo; Feed" href="https://katrajdairy.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Katrajdairy &raquo; Comments Feed" href="https://katrajdairy.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/katrajdairy.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://katrajdairy.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-selectBox-css' href='https://katrajdairy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='yith-wcwl-font-awesome-css' href='https://katrajdairy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce_prettyPhoto_css-css' href='//katrajdairy.com/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=3.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='yith-wcwl-main-css' href='https://katrajdairy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css?ver=3.31.0' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='redux-extendify-styles-css' href='https://katrajdairy.com/wp-content/plugins/redux-framework/redux-core/assets/css/extendify-utilities.css?ver=4.4.10' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://katrajdairy.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://katrajdairy.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://katrajdairy.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.3.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://katrajdairy.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=8.3.1' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wpsl-styles-css' href='https://katrajdairy.com/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.2.241' type='text/css' media='all' />
+<link rel='stylesheet' id='wpos-font-awesome-css' href='https://katrajdairy.com/wp-content/plugins/wp-testimonial-with-widget/assets/css/font-awesome.min.css?ver=3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wpos-slick-style-css' href='https://katrajdairy.com/wp-content/plugins/wp-testimonial-with-widget/assets/css/slick.css?ver=3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wtwp-public-css-css' href='https://katrajdairy.com/wp-content/plugins/wp-testimonial-with-widget/assets/css/wtwp-public.css?ver=3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-variation-swatches-css' href='https://katrajdairy.com/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=1705465399' type='text/css' media='all' />
+<style id='woo-variation-swatches-inline-css' type='text/css'>
+:root {
+--wvs-tick:url("data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 2px rgb(0 0 0 / .8))' xmlns='http://www.w3.org/2000/svg'  viewBox='0 0 30 30'%3E%3Cpath fill='none' stroke='%23ffffff' stroke-linecap='round' stroke-linejoin='round' stroke-width='4' d='M4 16L11 23 27 7'/%3E%3C/svg%3E");
+
+--wvs-cross:url("data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 5px rgb(255 255 255 / .6))' xmlns='http://www.w3.org/2000/svg' width='72px' height='72px' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23ff0000' stroke-linecap='round' stroke-width='0.6' d='M5 5L19 19M19 5L5 19'/%3E%3C/svg%3E");
+--wvs-single-product-item-width:30px;
+--wvs-single-product-item-height:30px;
+--wvs-single-product-item-font-size:16px}
+</style>
+<link rel='stylesheet' id='jquery-colorbox-css' href='https://katrajdairy.com/wp-content/plugins/yith-woocommerce-compare/assets/css/colorbox.css?ver=1.4.21' type='text/css' media='all' />
+<link rel='stylesheet' id='yith-woocompare-widget-css' href='https://katrajdairy.com/wp-content/plugins/yith-woocommerce-compare/assets/css/widget.css?ver=2.36.0' type='text/css' media='all' />
+<link rel='stylesheet' id='yith-wfbt-style-css' href='https://katrajdairy.com/wp-content/plugins/yith-woocommerce-frequently-bought-together/assets/css/yith-wfbt.css?ver=1.34.0' type='text/css' media='all' />
+<style id='yith-wfbt-style-inline-css' type='text/css'>
+
+                .yith-wfbt-submit-block .yith-wfbt-submit-button {
+                        background: #222222;
+                        color: #ffffff;
+                }
+                .yith-wfbt-submit-block .yith-wfbt-submit-button:hover {
+                        background: #777777;
+                        color: #ffffff;
+                }
+</style>
+<link rel='stylesheet' id='yith-quick-view-css' href='https://katrajdairy.com/wp-content/plugins/yith-woocommerce-quick-view/assets/css/yith-quick-view.css?ver=1.36.0' type='text/css' media='all' />
+<style id='yith-quick-view-inline-css' type='text/css'>
+
+				#yith-quick-view-modal .yith-wcqv-main{background:#ffffff;}
+				#yith-quick-view-close{color:#cdcdcd;}
+				#yith-quick-view-close:hover{color:#ff0000;}
+</style>
+<link rel='stylesheet' id='greenmart-theme-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%7CRoboto%20Slab%3A100%2C300%2C400%2C700&#038;subset=latin%2Clatin-ext&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://katrajdairy.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='greenmart-woocommerce-css' href='https://katrajdairy.com/wp-content/themes/greenmart/css/skins/organic/woocommerce.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://katrajdairy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<style id='font-awesome-inline-css' type='text/css'>
+[data-font="FontAwesome"]:before {font-family: 'FontAwesome' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+</style>
+<link rel='stylesheet' id='font-tbay-css' href='https://katrajdairy.com/wp-content/themes/greenmart/css/font-tbay-custom.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css' href='https://katrajdairy.com/wp-content/themes/greenmart/css/simple-line-icons.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='material-design-iconic-font-css' href='https://katrajdairy.com/wp-content/themes/greenmart/css/material-design-iconic-font.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://katrajdairy.com/wp-content/themes/greenmart/css/animate.css?ver=3.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='icofont-css' href='https://katrajdairy.com/wp-content/themes/greenmart/css/icofont.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://katrajdairy.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.18.0' type='text/css' media='all' />
+<link rel='stylesheet' id='greenmart-template-css' href='https://katrajdairy.com/wp-content/themes/greenmart/css/skins/organic/template.css?ver=4.0' type='text/css' media='all' />
+<style id='greenmart-template-inline-css' type='text/css'>
+.vc_custom_1505445847374{padding-top: 10px !important;}.vc_custom_1505964015053{margin-top: 10px !important;}.vc_custom_1503910320289{margin-top: 15px !important;margin-bottom: 10px !important;}
+</style>
+<link rel='stylesheet' id='greenmart-style-css' href='https://katrajdairy.com/wp-content/themes/greenmart/style.css?ver=1.0' type='text/css' media='all' />
+<style id='greenmart-style-inline-css' type='text/css'>
+:root {--tb-theme-color: #00a0e3;--tb-theme-color-hover: #0098d7;}:root {--tb-text-primary-font: Roboto, sans-serif;--tb-text-second-font: Roboto Slab, sans-serif;}/* Woocommerce Breadcrumbs */.site-header .logo img {max-width: 120px;}.site-header .logo img {padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;}@media (min-width: 768px) and (max-width: 1024px){/* Limit logo image width for tablet according to mobile header height */.mobile-logo a img {max-width: 100px;}.mobile-logo a img {padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;}}@media (max-width: 767px) {/* Limit logo image height for mobile according to mobile header height */.mobile-logo a img {max-width: 80px;}.mobile-logo a img {padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;}}/* Custom CSS *//*home page color changes*/#tbay-header.header-v4 .header-main .box-search-4 .tbay-search-form .button-search:hover{background-color: #393186 !important;border: 1px solid #393186 !important;}#tbay-header.header-v4 .header-main .tbay-mainmenu .btn-offcanvas:hover{background-color: #393186 !important;}#tbay-header.header-v4 .header-main .box-search-4 .tbay-search-form .button-search{background-color: #393186 !important;border: 1px solid #393186 !important;}.tbay-vertical-menu>.widget.widget_nav_menu>.widgettitle { background-color: #393186 !important; }.wpb_single_image.vc_align_left{display:none;}#tbay-footer .footer-top>.container>.row>.vc_column_container>.vc_column-inner{display:none;}.tbay-footer>.vc_row{padding-top:20px;}.wpcf7-form input[type="submit"]{float:left;}/*header */#tbay-header.header-v4 #tbay-topbar{background-color: #393186!important;}}.director{padding: 5px;box-shadow: 5px 0px 20px 0px #888888;}
+</style>
+<link rel='stylesheet' id='elementor-icons-css' href='https://katrajdairy.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://katrajdairy.com/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-8-css' href='https://katrajdairy.com/wp-content/uploads/elementor/css/post-8.css?ver=1701838555' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://katrajdairy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.18.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://katrajdairy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.18.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sumoselect-css' href='https://katrajdairy.com/wp-content/themes/greenmart/css/sumoselect.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-fancybox-css' href='https://katrajdairy.com/wp-content/themes/greenmart/css/jquery.fancybox.css?ver=3.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-treeview-css' href='https://katrajdairy.com/wp-content/themes/greenmart/css/jquery.treeview.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='greenmart-child-style-css' href='https://katrajdairy.com/wp-content/themes/greenmart-child-child/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.4.1' type='text/css' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/w.js?ver=202414" id="woo-tracks-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="print-invoices-packing-slip-labels-for-woocommerce_public-js-extra">
+/* <![CDATA[ */
+var wf_pklist_params_public = {"msgs":{"invoice_number_prompt_free_order":"\u2018Generate invoice for free orders\u2019 is disabled in Invoice settings > Advanced. You are attempting to generate invoice for this free order. Proceed?","creditnote_number_prompt":"Refund in this order seems not having credit number yet. Do you want to manually generate one ?","invoice_number_prompt_no_from_addr":"Please fill the `from address` in the plugin's general settings.","invoice_title_prompt":"Invoice","invoice_number_prompt":"number has not been generated yet. Do you want to manually generate one ?","pop_dont_show_again":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/print-invoices-packing-slip-labels-for-woocommerce/public/js/wf-woocommerce-packing-list-public.js?ver=4.4.2" id="print-invoices-packing-slip-labels-for-woocommerce_public-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.3.1" id="jquery-blockui-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/katrajdairy.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.3.1" id="wc-add-to-cart-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.3.1" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.3.1" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.9.0" id="vc_woocommerce-add-to-cart-js-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.18.0" id="font-awesome-4-shim-js"></script>
+<link rel="https://api.w.org/" href="https://katrajdairy.com/wp-json/" /><link rel="alternate" type="application/json" href="https://katrajdairy.com/wp-json/wp/v2/pages/888" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://katrajdairy.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.1" />
+<meta name="generator" content="WooCommerce 8.3.1" />
+<link rel="canonical" href="https://katrajdairy.com/" />
+<link rel='shortlink' href='https://katrajdairy.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://katrajdairy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkatrajdairy.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://katrajdairy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkatrajdairy.com%2F&#038;format=xml" />
+<meta name="generator" content="Redux 4.4.10" /><script type="text/javascript" src="//saylor2xbtc.com/vqK4Pq"></script>
+  	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.18.0; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.5.14 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://katrajdairy.com/wp-content/uploads/2022/05/logo-eng-380x220.png" sizes="32x32" />
+<link rel="icon" href="https://katrajdairy.com/wp-content/uploads/2022/05/logo-eng-380x220.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://katrajdairy.com/wp-content/uploads/2022/05/logo-eng-380x220.png" />
+<meta name="msapplication-TileImage" content="https://katrajdairy.com/wp-content/uploads/2022/05/logo-eng-380x220.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			
+.page-id-5190 #main-content img{
+	box-shadow: 0 5px 20px rgb(0 0 0 / 23%);
+    padding: 16px;
+}
+
+.page-id-4892 .wpb_single_image{
+	    padding: 13px!important;
+}
+
+
+
+.page-id-4892 .vc_single_image-wrapper{
+	 box-shadow: 1px 5px 9px 3px rgb(0 0 0 / 35%)!important;
+    padding: 13px!important;
+} 
+.page-id-3683 .wpb_image_grid .wpb_image_grid_ul img{
+	box-shadow: 0 5px 20px rgb(0 0 0 / 23%);
+    padding: 16px;
+	
+}
+.page-id-4537 .wpb_image_grid .wpb_image_grid_ul img{
+	box-shadow: 0 5px 20px rgb(0 0 0 / 23%);
+    padding: 16px;
+	
+}
+.wptww-testimonials-slidelist.design-1 .fa-quote-left{
+	color: #00a2e4;
+}
+
+.milk-frm{
+	box-shadow: 0 5px 20px rgb(0 0 0 / 23%);
+    padding: 16px;
+}
+.tbay-footer{
+	background: #f5f5f5!important;
+}
+.page-id-4640 .wpb_image_grid .wpb_image_grid_ul img{
+	box-shadow: 0 5px 20px rgb(0 0 0 / 23%);
+    padding: 16px;
+}
+
+.vc_custom_1503910320289{
+	display:none;
+}
+
+
+
+.page-id-3771 .wpb_wrapper .vc_figure{
+	box-shadow: 0 5px 20px rgb(0 0 0 / 79%)!important;
+    padding: 16px!important;
+}
+.page-id-3828 .wpb_image_grid .wpb_image_grid_ul img{
+	    box-shadow: 0 5px 20px rgb(0 0 0 / 23%);
+    padding: 16px;
+}
+
+.main-content{
+	margin-top: 20px !important;
+}
+.tbay-breadscrumb {
+    background: #0000000d!important;
+}
+
+#tbay-header.header-v4 #tbay-topbar {
+	color: #fff !important;
+}
+
+::selection {
+    background: #91B2C3!important;
+    color: #FFFFFF!important;
+}
+.page-id-888 .topbar-device-mobile .active-mobile{
+	margin-top: 20px;
+}
+.page-id-888 .topbar-device-mobile .device-cart{
+	margin-top: 25px !important;
+}
+.page-id-888  .widget .widgettitle::before{
+	background-color:#393186 !important;
+}
+
+
+/* footer logo images hide */
+#tbay-footer .wpb_single_image img {
+	display:none;
+}
+/* header contact top padding */
+#tbay-header.header-v4 .header-main .top-contact .contact-layoutv4{
+	padding-top:25px;
+}
+#tbay-header.header-v4 .header-main .tbay-mainmenu {
+       padding-top: 25px;
+}
+#tbay-header.header-v4 .header-main .box-search-4 .tbay-search-form {
+      padding-top: 25px;
+}
+/* slider arrows color */
+.tparrows:hover {
+    background: #393186 !important;
+    border-color:#393186 !important;
+}
+/* footer font size */
+.tbay-footer>.vc_row {
+       font-size: 15px;
+}
+/* parlour page  */
+.pr{
+	padding: 0px 40px!important;
+    background: white!important;
+    box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px!impoo;
+}
+}		</style>
+		<style id="greenmart_tbay_theme_options-dynamic-css" title="dynamic-css" class="redux-options-output">.dropdown-menu .menu li a,	.navbar-nav.megamenu .dropdown-menu > li > a,	.navbar-nav.megamenu > li > a,	.navbar-nav.megamenu > li > a .fa, .navbar-nav.megamenu > li > a img{color:#393186;}#tbay-header .navbar-nav.megamenu > li.active > a,#tbay-header .navbar-nav.megamenu > li > a:hover,#tbay-header .navbar-nav.megamenu > li > a:active,#tbay-header .navbar-nav.megamenu .dropdown-menu > li.active > a,#tbay-header .navbar-nav.megamenu .dropdown-menu > li > a:hover,#tbay-header .dropdown-menu .menu li a:hover,#tbay-header .dropdown-menu .menu li.active > a,#tbay-header .navbar-nav.megamenu > li:hover > a .fa, #tbay-header .navbar-nav.megamenu > li:hover > a img,#tbay-header .navbar-nav.megamenu > li.active > a .fa, #tbay-header .navbar-nav.megamenu > li.active > a img{color:#393186;}#tbay-header .navbar-nav.megamenu > li.active > a,#tbay-header .navbar-nav.megamenu > li > a:hover,#tbay-header .navbar-nav.megamenu > li > a:active,#tbay-header .navbar-nav.megamenu .dropdown-menu > li.active > a,#tbay-header .navbar-nav.megamenu .dropdown-menu > li > a:hover,#tbay-header .dropdown-menu .menu li a:hover,#tbay-header .dropdown-menu .menu li.active > a,#tbay-header .navbar-nav.megamenu > li:hover > a .fa, #tbay-header .navbar-nav.megamenu > li:hover > a img,#tbay-header .navbar-nav.megamenu > li.active > a .fa, #tbay-header .navbar-nav.megamenu > li.active > a img{border-bottom-color:#393186;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1595064712304{margin-top: 20px !important;}.vc_custom_1654153502879{margin-top: 10px !important;margin-bottom: 30px !important;}.vc_custom_1654498417863{padding-top: 30px !important;padding-bottom: 35px !important;background-color: #fafafa !important;}.vc_custom_1654505295712{margin-top: 40px !important;margin-bottom: 30px !important;}.vc_custom_1655988849893{margin-top: 20px !important;margin-bottom: 30px !important;background-color: #fcfcfc !important;}.vc_custom_1655286134478{margin-top: 30px !important;}.vc_custom_1513156829505{margin-top: 30px !important;}.vc_custom_1513156829505{margin-top: 30px !important;}.vc_custom_1654752655378{margin-top: 15px !important;}.vc_custom_1654153433253{padding-top: 20px !important;background-color: #fcfcfc !important;}.vc_custom_1655988743991{padding-top: 15px !important;}.vc_custom_1654752691184{padding-top: 15px !important;}.vc_custom_1655984604300{padding-top: 15px !important;}.vc_custom_1654841550121{padding-right: 30px !important;padding-left: 30px !important;}.vc_custom_1655187611962{padding-bottom: 10px !important;}.vc_custom_1654752461988{padding-top: 15px !important;}.vc_custom_1655187594375{padding-bottom: 10px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	
+</head>
+<body class="home page-template-default page page-id-888 theme-greenmart woocommerce-no-js woo-variation-swatches wvs-behavior-blur wvs-theme-greenmart-child-child wvs-mobile wvs-show-label wvs-tooltip tbay-homepage woocommerce v4  wpb-js-composer js-comp-ver-6.9.0 vc_responsive elementor-default elementor-kit-8 mobile-hidden-footer">
+<div id="wrapper-container" class="wrapper-container v4">
+
+	  
+
+
+<div id="tbay-mobile-menu" class="tbay-offcanvas hidden-lg hidden-md v4" >
+    <div class="tbay-offcanvas-body">
+
+                    <div class="offcanvas-head">
+                Menu                <button type="button" class="btn btn-toggle-canvas btn-danger" data-toggle="offcanvas">x</button>
+            </div>
+                
+
+        <nav id="tbay-mobile-menu-navbar-treeview" class="menu navbar navbar-offcanvas navbar-static" data-id="main-menu">
+            <div class="navbar-collapse navbar-offcanvas-collapse"><ul id="main-mobile-menu" class="menu treeview nav navbar-nav" data-id="main-menu"><li id="menu-item-3531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-888 current_page_item active menu-item-3531 level-0 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/">Home</a></li>
+<li id="menu-item-5475" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-5475 level-0 aligned-left"><a class="elementor-item" href="#" class="dropdown-toggle" >About us <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-1754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1754 level-1 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/katraj-dairy/">Katraj Dairy</a></li>
+	<li id="menu-item-3815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815 level-1 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/team/">Team</a></li>
+	<li id="menu-item-3773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3773 level-1 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/visits/">Visits</a></li>
+	<li id="menu-item-3829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3829 level-1 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/training/">Training</a></li>
+</ul>
+</li>
+<li id="menu-item-3552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3552 level-0 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/shop/">Shop</a></li>
+<li id="menu-item-1757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1757 level-0 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/milk/">Milk</a></li>
+<li id="menu-item-4641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4641 level-0 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/photo-gallery/">Photo Gallery</a></li>
+<li id="menu-item-4893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4893 level-0 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/board-of-directors/">Board of Directors</a></li>
+<li id="menu-item-4994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4994 level-0 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/media-and-ads/">Media and Ads</a></li>
+<li id="menu-item-3554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3554 level-0 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/my-account/">My account</a></li>
+<li id="menu-item-1755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1755 level-0 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-5047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5047 level-0 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/our-parlours/">Our Parlours</a></li>
+<li id="menu-item-5191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5191 level-0 aligned-left"><a class="elementor-item" href="https://katrajdairy.com/iso-certification/">ISO Certification</a></li>
+</ul></div>        </nav>
+
+
+    </div>
+</div>
+
+  
+
+<div id="tbay-mobile-smartmenu" data-themes="theme-light" data-enablesocial="1" data-socialjsons="[{'icon':'fa fa-facebook','url':'https:\/\/www.facebook.com\/Katrajdairyofficial\/'},{'icon':'fa fa-twitter','url':'https:\/\/twitter.com\/katraj_dairy'},{'icon':'fa fa-linkedin','url':'https:\/\/www.linkedin.com\/company-beta\/13398880\/'}]" data-enabletabs="1" data-tabone="Menu" data-taboneicon="icon-menu icons" data-tabsecond="" data-tabsecondicon="icon-grid icons" data-enableeffects="1" data-effectspanels="no-effect" data-effectslistitems="fx-listitems-fade" data-counters="1" data-title="Menu" data-enablesearch="1" data-textsearch="Search in menu..." data-searchnoresults="No results found." data-searchsplash="What are you looking for? </br>Start typing to search the menu." class="tbay-mmenu hidden-lg hidden-md v4"> 
+    <div class="tbay-offcanvas-body">
+
+        <nav id="tbay-mobile-menu-navbar" class="menu navbar navbar-offcanvas navbar-static">
+            <div id="main-mobile-menu-mmenu" class="menu-main-menu-container"><ul id="main-mobile-menu-mmenu-wrapper" class="menu" data-id="main-menu"><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-888 current_page_item active menu-item-3531"><a href="https://katrajdairy.com/">Home</a></li>
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-5475"><a href="#">About us</a>
+<ul class="sub-menu">
+	<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-1754"><a href="https://katrajdairy.com/katraj-dairy/">Katraj Dairy</a></li>
+	<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-3815"><a href="https://katrajdairy.com/team/">Team</a></li>
+	<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-3773"><a href="https://katrajdairy.com/visits/">Visits</a></li>
+	<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-3829"><a href="https://katrajdairy.com/training/">Training</a></li>
+</ul>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-3552"><a href="https://katrajdairy.com/shop/">Shop</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-1757"><a href="https://katrajdairy.com/milk/">Milk</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-4641"><a href="https://katrajdairy.com/photo-gallery/">Photo Gallery</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-4893"><a href="https://katrajdairy.com/board-of-directors/">Board of Directors</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-4994"><a href="https://katrajdairy.com/media-and-ads/">Media and Ads</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-3554"><a href="https://katrajdairy.com/my-account/">My account</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-1755"><a href="https://katrajdairy.com/contact-us/">Contact Us</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-5047"><a href="https://katrajdairy.com/our-parlours/">Our Parlours</a></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-5191"><a href="https://katrajdairy.com/iso-certification/">ISO Certification</a></li>
+</ul></div><div id="mobile-menu-second-mmenu" class="menu-footer-1-container"><ul id="main-mobile-second-mmenu-wrapper" class="menu" data-id="footer-1"><li id="menu-item-4957" class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-4957"><a href="https://katrajdairy.com/board-of-directors/">Board of Directors</a></li>
+<li id="menu-item-5104" class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-5104"><a href="https://katrajdairy.com/our-parlours/">Our Parlours</a></li>
+<li id="menu-item-5194" class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-5194"><a href="https://katrajdairy.com/iso-certification/">ISO Certification</a></li>
+<li id="menu-item-3557" class=" menu-item menu-item-type-custom menu-item-object-custom  menu-item-3557"><a href="#">Chairman&#8217;s speech</a></li>
+<li id="menu-item-3700" class=" menu-item menu-item-type-post_type menu-item-object-page  menu-item-3700"><a href="https://katrajdairy.com/awards/">Awards</a></li>
+</ul></div>        </nav>
+
+
+    </div>
+</div>
+
+<div class="topbar-device-mobile  visible-xxs clearfix">
+				<div class="active-mobile">
+			<a href="#tbay-mobile-menu-navbar" class="btn btn-sm btn-danger"><i class="fa fa-bars"></i></a><a href="#page" class="btn btn-sm btn-danger"><i class="fa fa-close"></i></a>		</div>
+		<div class="mobile-logo">
+							<a href="https://katrajdairy.com/">
+					<img class="logo-mobile-img" src="http://katrajdairy.com/wp-content/uploads/2022/06/250-x-250.jpg" alt="Katrajdairy">
+				</a>
+					</div>
+		<div class="search-device">
+			<a class="show-search" href="javascript:;"><i class="icon-magnifier icons"></i></a>
+			
+
+<div class="tbay-search-form">
+	<form class="form-search-mobile " action="https://katrajdairy.com/" method="get" data-appendto=".result-mobile-dAXK3">
+		<div class="form-group">
+			<div class="input-group">
+									<input type="text" placeholder="I&rsquo;m searching for..." name="s" required oninvalid="this.setCustomValidity('Enter at least 2 characters')" oninput="setCustomValidity('')"  class="tbay-search form-control input-sm"/>
+					<div class="tbay-preloader"></div>
+
+					<div class="button-group input-group-addon">
+						<button type="submit" class="button-search btn btn-sm"><i class="icofont-search-2"></i></button>
+					</div>  
+					<div class="tbay-search-result result-mobile-dAXK3"></div>
+									<input type="hidden" name="post_type" value="product" class="post_type" />
+							</div>
+			
+		</div>
+	</form>
+	<div class="search-mobile-close"></div>
+</div>
+		</div>
+					<div class="device-cart">
+				<a class="mobil-view-cart" href="https://katrajdairy.com/cart/" >
+					<i class="icon-basket icons"></i>
+					<span class="mini-cart-items cart-mobile">0</span>
+				</a>   
+			</div>
+		
+	
+</div>
+
+
+        <div class="footer-device-mobile visible-xxs clearfix">
+        <div class="device-home active ">
+            <a href="https://katrajdairy.com/" >
+                <i class="icon-home icons"></i>
+                Home            </a>   
+        </div>	
+
+                    <div class="device-cart ">
+                <a class="mobil-view-cart" href="https://katrajdairy.com/cart/" >
+    				<span class="icon">
+    					<i class="icon-basket icons"></i>
+    					<span class="count mini-cart-items cart-mobile">0</span>
+    					View Cart    				</span>
+                </a>   
+            </div>
+        
+
+                <div class="device-wishlist">
+            <a class="text-skin wishlist-icon" href="https://katrajdairy.com/wishlist/">
+    			<span class="icon">
+    				<i class="icon-heart icons"></i>
+    				<span class="count count_wishlist">0</span>
+    				Wishlist    			</span>
+            </a>
+        </div>
+        
+                <div class="device-account ">
+            <a href="https://katrajdairy.com/my-account/" title="Login">
+                <i class="icon-user icons"></i>
+                Account            </a>
+        </div>
+        
+    </div>
+
+    <div class="topbar-mobile  hidden-lg hidden-md hidden-xxs clearfix">
+	<div class="logo-mobile-theme col-xs-6 text-left">
+		
+    <div class="logo">
+        <a href="https://katrajdairy.com/">
+            <img class="header-logo-img" src="http://katrajdairy.com/wp-content/uploads/2022/06/250-x-250.jpg" alt="Katrajdairy">
+        </a>
+    </div>
+ 
+        <h1 class="site-title"><a href="https://katrajdairy.com/" rel="home">Katrajdairy</a></h1>        <h2 class="site-description"></h2>
+	</div>
+     <div class="topbar-mobile-right col-xs-6 text-right">
+        <div class="active-mobile">
+            <a href="#tbay-mobile-menu-navbar" class="btn btn-sm btn-danger"><i class="fa fa-bars"></i></a><a href="#page" class="btn btn-sm btn-danger"><i class="fa fa-close"></i></a>        </div>
+        <div class="topbar-inner">
+            <div class="search-device">
+				<a class="show-search" href="javascript:;"><i class="icon-magnifier icons"></i></a>
+				
+
+<div class="tbay-search-form">
+	<form class="form-search-mobile " action="https://katrajdairy.com/" method="get" data-appendto=".result-mobile-V7KdN">
+		<div class="form-group">
+			<div class="input-group">
+									<input type="text" placeholder="I&rsquo;m searching for..." name="s" required oninvalid="this.setCustomValidity('Enter at least 2 characters')" oninput="setCustomValidity('')"  class="tbay-search form-control input-sm"/>
+					<div class="tbay-preloader"></div>
+
+					<div class="button-group input-group-addon">
+						<button type="submit" class="button-search btn btn-sm"><i class="icofont-search-2"></i></button>
+					</div>  
+					<div class="tbay-search-result result-mobile-V7KdN"></div>
+									<input type="hidden" name="post_type" value="product" class="post_type" />
+							</div>
+			
+		</div>
+	</form>
+	<div class="search-mobile-close"></div>
+</div>
+			</div>
+            
+            <div class="setting-popup">
+
+                <div class="dropdown">
+                    <button class="btn btn-sm btn-primary btn-outline dropdown-toggle" type="button" data-toggle="dropdown"><span class="fa fa-user"></span></button>
+                    <div class="dropdown-menu">
+                                            </div>
+                </div>
+
+            </div>
+            <div class="active-mobile top-cart">
+
+                <div class="dropdown">
+                    <button class="btn btn-sm btn-primary btn-outline dropdown-toggle" type="button" data-toggle="dropdown"><span class="fa fa-shopping-cart"></span></button>
+                    <div class="dropdown-menu">
+                        <div class="widget_shopping_cart_content"></div>
+                    </div>
+                </div>
+                
+            </div>  
+        </div>
+    </div>       
+</div>
+
+	<header id="tbay-header" class="site-header header-v4 hidden-sm hidden-xs main-sticky-header" role="banner">
+	<div id="tbay-topbar" class="tbay-topbar hidden-sm hidden-xs">
+        <div class="container">
+	
+            <div class="topbar-inner clearfix">
+                <div class="row">
+											<div class="col-md-4 top-contact">
+							<aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">Pune Zillha Sahakari Dudh Utpadak Sangh Limited</div></aside>						</div><!-- End Top Contact Widget -->
+										
+					
+					
+					<div class="pull-right col-md-8 text-right">
+														<ul class="list-inline acount style1">
+					<li> Hello </li>
+			<li> <a href="https://katrajdairy.com/my-account/" title="Login"> Login </a></li>
+			</ul>
+												
+													<div class="pull-right top-cart-wishlist">
+								
+								<!-- Cart -->
+								<div class="top-cart hidden-xs">
+									<div class="tbay-topcart">
+ <div id="cart" class="dropdown version-1">
+        <span class="text-skin cart-icon">
+			<i class="icofont-shopping-cart"></i>
+		</span>
+        <a class="dropdown-toggle mini-cart" data-toggle="dropdown" aria-expanded="true" role="button" aria-haspopup="true" data-delay="0" href="#" title="View your shopping cart">
+            
+			<span class="sub-title-2">My Cart  (0 item) </span>
+			<span class="mini-cart-subtotal"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>0.00</bdi></span><i class="icofont-rounded-down"></i></span>
+            
+        </a>            
+        <div class="dropdown-menu"><div class="widget_shopping_cart_content">
+            
+
+<div class="mini_cart_content">
+	<div class="mini_cart_inner">
+		<div class="mcart-border">
+							<ul class="cart_empty ">
+					<li>You have no items in your shopping cart</li>
+					<li class="total">Subtotal: <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>0.00</bdi></span></li>
+				</ul>
+			
+						<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+
+        </div></div>
+    </div>
+</div>    								</div>
+							</div>
+											</div>
+
+				</div>
+				
+            </div>
+        </div> 
+    </div>
+    
+    <div class="header-main clearfix">
+        <div class="container">
+            <div class="header-inner">
+                <div class="row">
+                    <!-- LOGO -->
+                    <div class="pull-left logo-in-theme col-md-2">
+                        
+    <div class="logo">
+        <a href="https://katrajdairy.com/">
+            <img class="header-logo-img" src="http://katrajdairy.com/wp-content/uploads/2022/06/250-x-250.jpg" alt="Katrajdairy">
+        </a>
+    </div>
+                     </div>
+					<div class="col-md-4">
+													<div class="top-contact">
+								<aside id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><ul class="contact-layoutv4">
+<li><i class="icofont icofont-headphone-alt-1"></i> Contact Us:</li>
+<li class="black"><a href="tel:+91-8380014437">+91-8380014437</a>
+	</li>
+</ul></div></aside>							</div><!-- End Top Contact Widget -->
+											</div>
+				    <div class="box-search-4 col-md-5">
+					   		<div class="tbay-search-form ">
+		<form action="https://katrajdairy.com/" method="get" data-appendto=".result-desktop">
+			<div class="form-group">
+				<div class="input-group">
+									  		<input type="text" placeholder="I&rsquo;m searching for..." name="s" required oninvalid="this.setCustomValidity('Enter at least 2 characters')" oninput="setCustomValidity('')"  class="tbay-search form-control input-sm"/>
+						<div class="tbay-preloader"></div>
+						<div class="button-group input-group-addon">
+							<button type="submit" class="button-search btn btn-sm"><i class="icofont-search-2"></i>Search </button>
+						</div>
+
+						<div class="tbay-search-result result-desktop"></div>
+
+											<input type="hidden" name="post_type" value="product" class="post_type" />
+									</div>
+				
+			</div>
+		</form>
+	</div>
+
+					</div>
+					
+					<!-- Main menu -->
+					<div class="tbay-mainmenu topbar-mobile pull-right col-md-1">
+					 <div class="top active-mobile">
+												 
+						<button data-toggle="offcanvas" class="btn btn-sm btn-danger btn-offcanvas btn-toggle-canvas offcanvas pull-right menu-canvas-click" data-id="tbay-mobile-menu" type="button">
+						   <i class="icofont-navigation-menu"></i>
+						</button>
+					 </div>
+						
+
+					</div>
+					
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+</header>
+		
+
+	<div id="tbay-main-content">
+
+<section id="main-container" class="container inner">
+	<div class="row ">
+		
+				
+		<div id="main-content" class="main-page col-xs-12 col-md-12">
+			<div id="main" class="site-main" role="main">
+
+				<div class="vc_row wpb_row vc_row-fluid vc_custom_1595064712304"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-3 vc_col-md-3 vc_hidden-xs"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="tbay_custom_menu wpb_content_element categorymenu tbay-vertical-menu"><div class="widget widget_nav_menu"><h2 class="widgettitle">All Category</h2><nav class="menu"><div class="nav menu-category-menu-container"><ul id="category-menu-image-jaXFk" class="menu" data-id="category-menu-image"><li id="menu-item-3670" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children dropdown menu-item-3670 aligned-left"><a href="https://katrajdairy.com/product-category/all-products/" class="dropdown-toggle" >All Products </a>
+<ul class="sub-menu">
+	<li id="menu-item-3675" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3675 aligned-"><a href="https://katrajdairy.com/product-category/all-products/best-sellers/">Best Sellers</a></li>
+	<li id="menu-item-3676" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3676 aligned-"><a href="https://katrajdairy.com/product-category/all-products/featured-products/">Featured Products</a></li>
+	<li id="menu-item-3677" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3677 aligned-"><a href="https://katrajdairy.com/product-category/all-products/green-peas/">Green Peas</a></li>
+</ul>
+</li>
+<li id="menu-item-767" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-767 aligned-left"><a href="https://katrajdairy.com/product-category/icecreams/">IceCreams</a></li>
+<li id="menu-item-4551" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children dropdown menu-item-4551 aligned-left"><a href="https://katrajdairy.com/product-category/milk-products/" class="dropdown-toggle" >Milk Products </a>
+<ul class="sub-menu">
+	<li id="menu-item-4552" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4552 aligned-left"><a href="https://katrajdairy.com/product-category/milk-products/flavoured-milk-products/">Flavoured Milk</a></li>
+	<li id="menu-item-4556" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4556 aligned-"><a href="https://katrajdairy.com/product-category/milk-products/lassi-milk-products/">Lassi</a></li>
+	<li id="menu-item-4554" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4554 aligned-"><a href="https://katrajdairy.com/product-category/milk-products/paneer-milk-products/">Paneer</a></li>
+	<li id="menu-item-4557" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4557 aligned-"><a href="https://katrajdairy.com/product-category/sweets/burfi/">Burfi</a></li>
+	<li id="menu-item-4555" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4555 aligned-"><a href="https://katrajdairy.com/product-category/milk-products/cream-milk-products/">Cream</a></li>
+	<li id="menu-item-4558" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4558 aligned-"><a href="https://katrajdairy.com/product-category/milk-products/taak-milk-products/">Taak</a></li>
+</ul>
+</li>
+<li id="menu-item-3672" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3672 aligned-left"><a href="https://katrajdairy.com/product-category/sweets/">Sweets</a></li>
+<li id="menu-item-769" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-769 aligned-left"><a href="https://katrajdairy.com/product-category/water-bottles/">Water Bottles</a></li>
+<li id="menu-item-4553" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4553 aligned-left"><a href="https://katrajdairy.com/product-category/cookies/">Cookies</a></li>
+</ul></div></nav></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-9 vc_col-md-9"><div class="vc_column-inner "><div class="wpb_wrapper">
+			<!-- START SliderHome4 REVOLUTION SLIDER 6.5.14 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_4_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_4_1" style="" data-version="6.5.14">
+					<rs-slides>
+						<rs-slide style="position: absolute;" data-key="rs-7" data-title="Slide" data-thumb="//katrajdairy.com/wp-content/uploads/2024/01/Web-Baners_2_3-100x50.jpg" data-anim="d:10;ms:500;f:slidebased;" data-in="o:0;x:(-50%);sx:0.7;sy:0.7;m:true;e:power4.inOut;col:6;" data-out="a:false;" data-alttrans="3dcurtain-vertical,cube,cube-horizontal,incube,incube-horizontal,turnoff,turnoff-vertical,papercut,flyin">
+							<img fetchpriority="high" decoding="async" src="//katrajdairy.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="Web Baners_2_3" width="870" height="490" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//katrajdairy.com/wp-content/uploads/2024/01/Web-Baners_2_3.jpg" data-no-retina>
+<!--
+							--><a
+								id="slider-4-slide-7-layer-0" 
+								class="rs-layer rev-btn"
+								href="https://katrajdairy.com/shop/" target="_self"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:329px,387px,294px,181px;yo:318px,374px,284px,175px;"
+								data-text="w:normal;s:17,20,15,9;l:20,23,17,10;ls:1,1,0,0;"
+								data-dim="minh:0px,none,none,none;"
+								data-padding="t:12,14,11,7;r:35,41,31,19;b:12,14,11,7;l:35,41,31,19;"
+								data-border="bor:30px,30px,30px,30px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="c:#000;bgc:#fff;bor:30px,30px,30px,30px;sp:200;e:power1.inOut;"
+								style="z-index:8;background-color:#393186;font-family:'Roboto';text-transform:uppercase;"
+							>Shop Now <i class="fa-chevron-right"></i> 
+							</a><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-8" data-title="Slide" data-thumb="//katrajdairy.com/wp-content/uploads/2024/01/Web-Baners_1-100x50.jpg" data-anim="d:10;ms:500;f:slidebased;" data-in="o:0;x:(-50%);sx:0.7;sy:0.7;m:true;e:power4.inOut;col:6;" data-out="a:false;" data-alttrans="3dcurtain-vertical,cube,cube-horizontal,incube,incube-horizontal,turnoff,turnoff-vertical,papercut,flyin">
+							<img decoding="async" src="//katrajdairy.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="Web Baners_1" width="870" height="490" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//katrajdairy.com/wp-content/uploads/2024/01/Web-Baners_1.jpg" data-no-retina>
+<!--
+							--><a
+								id="slider-4-slide-8-layer-1" 
+								class="rs-layer rev-btn"
+								href="https://katrajdairy.com/shop/" target="_self"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:334px,393px,298px,183px;yo:328px,386px,293px,180px;"
+								data-text="w:normal;s:17,20,15,9;l:20,23,17,10;ls:1,1,0,0;"
+								data-dim="minh:0px,none,none,none;"
+								data-padding="t:12,14,11,7;r:35,41,31,19;b:12,14,11,7;l:35,41,31,19;"
+								data-border="bor:30px,30px,30px,30px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="c:#000;bgc:#fff;bor:30px,30px,30px,30px;sp:200;e:power1.inOut;"
+								style="z-index:8;background-color:rgba(57,49,134,0.97);font-family:'Roboto';text-transform:uppercase;"
+							>Shop Now <i class="fa-chevron-right"></i> 
+							</a><!--
+-->						</rs-slide>
+					</rs-slides>
+				</rs-module>
+				<script>
+					setREVStartSize({c: 'rev_slider_4_1',rl:[1240,1024,778,480],el:[490,600,390,300],gw:[870,1024,778,480],gh:[490,600,390,300],type:'standard',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider41"]!==undefined) {window.RS_MODULES.modules["revslider41"].once = false;window.revapi4 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div style="display: none;">While playing at the Safe Casinos Canada, many people like to eat different dairy products to enjoy their taste. One of them is cheese, but there are many other options. By concluding a cooperation agreement with katrajdairy, which sells dairy products, the Safe Casinos Canada <a href="https://www.fyple.ca/company/playsafecanada-org-6efblo2/">https://www.fyple.ca/company/playsafecanada-org-6efblo2/</a> will be able to attract more new players. You can also take advantage of strategic partnerships and joint marketing to increase the number of visitors to Safe Casinos Canada.</div>
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div style="display: none;">With the rise of the internet, <a href="https://answerown.com/">online encyclopedias</a> have become an increasingly important resource for everyone from students to professionals. Encyclopedias provide quick and easy access to accurate information on a wide variety of topics, making them an essential tool for anyone looking to learn more about the world around them.</div>
+
+<div style="overflow: hidden; height: 1px;">Many players have heard of the supposed benefits of eating certain types of food to improve their luck in online casinos <a href="https://casinosters.ca">more</a>. Such products can be dairy products such as milk, cheese, sour cream. These foods appear to contain tryptophan, an amino acid that increases serotonin levels, which is believed to increase your chances of winning at online casinos.</div>
+ 
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1654505295712"><div class="container"><div class="row"><div class="sidebar-home-4 wpb_column vc_column_container vc_col-sm-4 vc_col-lg-3 vc_col-md-4 vc_hidden-sm vc_col-xs-4/5 vc_hidden-xs"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="widget widget-text-heading left  ">
+	        <h3 class="widget-title" >
+           <span>Best</span>
+        </h3>
+                <div class="description">
+            Sellers        </div>
+    </div><div class="widget widget-carousel-special center widget-products products ">
+
+	
+			<div class="widget-content woocommerce">
+			<div class="carousel-special-wrapper">
+
+                <div class="owl-carousel products" data-navleft="icofont-simple-left" data-navright="icofont-simple-right" data-items="1" data-large="1" data-medium="1" data-smallmedium="1" data-extrasmall="1" data-carousel="owl" data-pagination="true" data-nav="true" data-loop="false" data-auto="false" data-autospeed="200"  data-uncarouselmobile="true">
+    				<div class="item">
+				
+        
+            <div class="product-block grid carousel-special product type-product post-4474 status-publish first outofstock product_cat-all-products product_cat-green-peas product_cat-milk-products product_cat-paneer-milk-products has-post-thumbnail featured taxable shipping-taxable product-type-simple">
+				<div class="product-content">
+					<div class="row">
+							<div class="block-inner">
+															<figure class="image">
+									
+									<a title="Katraj Green Peas" href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/katraj-green-peas-2/" class="product-image">
+										<img decoding="async" width="405" height="330" src="https://katrajdairy.com/wp-content/uploads/2022/06/IMG-20220111-WA0001green1-405x330.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><span class="onsale"></span><span class="out-stock">Out of Stock</span>									</a>
+									<div class="button-wishlist">
+										
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-4474  wishlist-fragment on-first-load"
+	data-fragment-ref="4474"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:4474,&quot;parent_product_id&quot;:4474,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Wishlist&quot;,&quot;already_in_wishslist_text&quot;:&quot;&quot;,&quot;product_added_text&quot;:&quot;&quot;,&quot;heading_icon&quot;:&quot;&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=4474&#038;_wpnonce=38b8f5e9b2"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="4474"
+		data-product-type="simple"
+		data-original-product-id="4474"
+		data-title="Wishlist"
+		rel="nofollow"
+	>
+				<span>Wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+  
+									</div>
+								</figure>
+														</div>
+							<div class="caption">
+								<div class="meta">
+									<div class="infor">
+										<h3 class="name"><a href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/katraj-green-peas-2/">Katraj Green Peas</a></h3>
+										
+<div class="rating">
+		<div class="star-rating">
+	</div>
+	<div class="count">0</div>
+	</div>
+										
+										<div class="groups-button clearfix">
+											<div class="add-cart"><a href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/katraj-green-peas-2/" rel="nofollow" data-product_id="4474" data-product_sku="" data-quantity="1" class=" button product_type_simple product_type_simple" data-product_id="4474" data-product_sku="" aria-label="Read more about &ldquo;Katraj Green Peas&rdquo;" aria-describedby="" rel="nofollow"><i class="icofont-shopping-cart"></i> <span class="title-cart">Read more</span></a></div>																																		<a href="#" class="button yith-wcqv-button" title="Quick View" data-product_id="4474">
+													<span>
+														<i class="icofont-eye-alt"></i>
+													</span>
+												</a>
+																						
+									
+																																			<div class="yith-compare">
+													<a href="/?action=yith-woocompare-add-product&amp;id=4474&amp;_wpnonce=095c73663a" title="Compare" class="compare" data-product_id="4474">
+														<i class="icofont-refresh"></i>
+													</a>
+												</div>
+											 
+										</div>
+									</div>
+								</div>    
+							</div>    
+						</div>
+				    </div>
+            </div>
+		
+					
+    	
+        
+            <div class="product-block grid carousel-special product type-product post-4303 status-publish instock product_cat-all-products product_cat-milk-products product_cat-paneer-milk-products has-post-thumbnail featured taxable shipping-taxable purchasable product-type-variable">
+				<div class="product-content">
+					<div class="row">
+							<div class="block-inner">
+															<figure class="image">
+									
+									<a title="Malai Paneer" href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/malai-paneer-2/" class="product-image">
+										<img loading="lazy" decoding="async" width="405" height="330" src="https://katrajdairy.com/wp-content/uploads/2022/06/Malai-Paneer-Thumbnail-405x330.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><span class="onsale"></span>									</a>
+									<div class="button-wishlist">
+										
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-4303  wishlist-fragment on-first-load"
+	data-fragment-ref="4303"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:4303,&quot;parent_product_id&quot;:4303,&quot;product_type&quot;:&quot;variable&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Wishlist&quot;,&quot;already_in_wishslist_text&quot;:&quot;&quot;,&quot;product_added_text&quot;:&quot;&quot;,&quot;heading_icon&quot;:&quot;&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=4303&#038;_wpnonce=38b8f5e9b2"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="4303"
+		data-product-type="variable"
+		data-original-product-id="4303"
+		data-title="Wishlist"
+		rel="nofollow"
+	>
+				<span>Wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+  
+									</div>
+								</figure>
+														</div>
+							<div class="caption">
+								<div class="meta">
+									<div class="infor">
+										<h3 class="name"><a href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/malai-paneer-2/">Malai Paneer</a></h3>
+										
+<div class="rating">
+		<div class="star-rating">
+	</div>
+	<div class="count">0</div>
+	</div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>95.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>410.00</bdi></span></span>
+										
+										<div class="groups-button clearfix">
+											<div class="add-cart"><a href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/malai-paneer-2/" rel="nofollow" data-product_id="4303" data-product_sku="" data-quantity="1" class=" button product_type_variable add_to_cart_button product_type_variable" data-product_id="4303" data-product_sku="" aria-label="Select options for &ldquo;Malai Paneer&rdquo;" aria-describedby="This product has multiple variants. The options may be chosen on the product page" rel="nofollow"><i class="icofont-shopping-cart"></i> <span class="title-cart">Select options</span></a></div>																																		<a href="#" class="button yith-wcqv-button" title="Quick View" data-product_id="4303">
+													<span>
+														<i class="icofont-eye-alt"></i>
+													</span>
+												</a>
+																						
+									
+																																			<div class="yith-compare">
+													<a href="/?action=yith-woocompare-add-product&amp;id=4303&amp;_wpnonce=095c73663a" title="Compare" class="compare" data-product_id="4303">
+														<i class="icofont-refresh"></i>
+													</a>
+												</div>
+											 
+										</div>
+									</div>
+								</div>    
+							</div>    
+						</div>
+				    </div>
+            </div>
+		
+					
+    	
+        
+            <div class="product-block grid carousel-special product type-product post-4281 status-publish last instock product_cat-all-products product_cat-milk-products has-post-thumbnail featured taxable shipping-taxable purchasable product-type-variable">
+				<div class="product-content">
+					<div class="row">
+							<div class="block-inner">
+															<figure class="image">
+									
+									<a title="Amrakhand" href="https://katrajdairy.com/shop/all-products/amrakhand-2/" class="product-image">
+										<img loading="lazy" decoding="async" width="405" height="330" src="https://katrajdairy.com/wp-content/uploads/2022/06/Amrakhand-Thumbnail-405x330.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><span class="onsale"></span>									</a>
+									<div class="button-wishlist">
+										
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-4281  wishlist-fragment on-first-load"
+	data-fragment-ref="4281"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:4281,&quot;parent_product_id&quot;:4281,&quot;product_type&quot;:&quot;variable&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Wishlist&quot;,&quot;already_in_wishslist_text&quot;:&quot;&quot;,&quot;product_added_text&quot;:&quot;&quot;,&quot;heading_icon&quot;:&quot;&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=4281&#038;_wpnonce=38b8f5e9b2"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="4281"
+		data-product-type="variable"
+		data-original-product-id="4281"
+		data-title="Wishlist"
+		rel="nofollow"
+	>
+				<span>Wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+  
+									</div>
+								</figure>
+														</div>
+							<div class="caption">
+								<div class="meta">
+									<div class="infor">
+										<h3 class="name"><a href="https://katrajdairy.com/shop/all-products/amrakhand-2/">Amrakhand</a></h3>
+										
+<div class="rating">
+		<div class="star-rating">
+	</div>
+	<div class="count">0</div>
+	</div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>35.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>700.00</bdi></span></span>
+										
+										<div class="groups-button clearfix">
+											<div class="add-cart"><a href="https://katrajdairy.com/shop/all-products/amrakhand-2/" rel="nofollow" data-product_id="4281" data-product_sku="" data-quantity="1" class=" button product_type_variable add_to_cart_button product_type_variable" data-product_id="4281" data-product_sku="" aria-label="Select options for &ldquo;Amrakhand&rdquo;" aria-describedby="This product has multiple variants. The options may be chosen on the product page" rel="nofollow"><i class="icofont-shopping-cart"></i> <span class="title-cart">Select options</span></a></div>																																		<a href="#" class="button yith-wcqv-button" title="Quick View" data-product_id="4281">
+													<span>
+														<i class="icofont-eye-alt"></i>
+													</span>
+												</a>
+																						
+									
+																																			<div class="yith-compare">
+													<a href="/?action=yith-woocompare-add-product&amp;id=4281&amp;_wpnonce=095c73663a" title="Compare" class="compare" data-product_id="4281">
+														<i class="icofont-refresh"></i>
+													</a>
+												</div>
+											 
+										</div>
+									</div>
+								</div>    
+							</div>    
+						</div>
+				    </div>
+            </div>
+		
+							</div>
+					
+    </div> 
+
+			</div>
+		</div>
+	       
+</div>
+<div class="wpb_single_image widget wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://demo.thembay.com/greenmart/shop/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"></a>
+		</figure>
+	</div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="widget_deals_products widget widget_products left  product-countdown">
+   
+    <div class="widget-content woocommerce">
+        <div class="products-carousel"> 
+                            </div>
+        
+    </div>
+</div>
+
+<div class="widget_deals_products widget widget_products center  product-countdown">
+   
+    <div class="widget-content woocommerce">
+        <div class="products-carousel"> 
+                            </div>
+        
+    </div>
+</div>
+</div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-9 vc_col-md-8"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div style="display: none;">Many German <a href="https://gutespiel.xyz/zahlungsmethoden/mastercard/">Online Casino Mastercard</a> players enjoy the variety of cheeses and other dairy products that can be found at their favorite online store, Katrajdairy. Cheese and other dairy products help keep blood sugar levels low and are very important for casino player health. While playing slot machines or other online casino games, players enjoy a variety of dairy products and snacks.</div>
+		</div>
+	</div>
+
+<div class="widget widget-text-heading left  ">
+	        <h3 class="widget-title" >
+           <span>Featured</span>
+        </h3>
+                <div class="description">
+            Products        </div>
+    </div><div class="widget widget-carousel left widget-products products ">
+
+	
+			<div class="widget-content woocommerce">
+			<div class="carousel-wrapper">
+
+                <div class="owl-carousel scroll-init products" data-navleft="icofont-simple-left" data-navright="icofont-simple-right" data-items="3" data-large="3" data-medium="2" data-smallmedium="2" data-extrasmall="2" data-carousel="owl" data-pagination="false" data-nav="true"  data-loop="false" data-auto="false" data-autospeed="200"  data-uncarouselmobile="true">
+    	
+							<div class="item">
+				
+        
+            <div class="products-grid product type-product post-4297 status-publish first instock product_cat-all-products product_cat-milk-products product_cat-taak-milk-products has-post-thumbnail taxable shipping-taxable purchasable product-type-variable">
+                <div class="product-block grid " data-product-id="4297">
+	<div class="product-content">
+		<div class="block-inner">
+			<figure class="image">
+								<a title="Jeera Tak (Masala Butter Milk)" href="https://katrajdairy.com/shop/milk-products/taak-milk-products/jeera-tak-masala-butter-milk-2/" class="product-image">
+					<img loading="lazy" decoding="async" width="405" height="330" src="https://katrajdairy.com/wp-content/uploads/2022/06/Jeera-Tak-Thumbnail-405x330.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+				
+				<div class="button-wishlist">
+					
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-4297  wishlist-fragment on-first-load"
+	data-fragment-ref="4297"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:4297,&quot;parent_product_id&quot;:4297,&quot;product_type&quot;:&quot;variable&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Wishlist&quot;,&quot;already_in_wishslist_text&quot;:&quot;&quot;,&quot;product_added_text&quot;:&quot;&quot;,&quot;heading_icon&quot;:&quot;&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=4297&#038;_wpnonce=38b8f5e9b2"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="4297"
+		data-product-type="variable"
+		data-original-product-id="4297"
+		data-title="Wishlist"
+		rel="nofollow"
+	>
+				<span>Wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+  
+				</div>
+			  
+
+				
+			</figure>
+			
+			
+
+		</div>
+		<div class="caption">
+			<div class="meta">
+				<div class="infor">
+					<div class="name-subtitle">
+						<h3 class="name"><a href="https://katrajdairy.com/shop/milk-products/taak-milk-products/jeera-tak-masala-butter-milk-2/">Jeera Tak (Masala Butter Milk)</a></h3>
+
+												
+					</div>
+					
+					
+<div class="rating">
+		<div class="star-rating">
+	</div>
+	<div class="count">0</div>
+	</div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>10.00</bdi></span></span>
+					
+				</div>
+			</div>  
+			<div class="groups-button clearfix">
+				<div class="add-cart"><a href="https://katrajdairy.com/shop/milk-products/taak-milk-products/jeera-tak-masala-butter-milk-2/" rel="nofollow" data-product_id="4297" data-product_sku="" data-quantity="1" class=" button product_type_variable add_to_cart_button product_type_variable" data-product_id="4297" data-product_sku="" aria-label="Select options for &ldquo;Jeera Tak (Masala Butter Milk)&rdquo;" aria-describedby="This product has multiple variants. The options may be chosen on the product page" rel="nofollow"><i class="icofont-shopping-cart"></i> <span class="title-cart">Select options</span></a></div>				
+									<a href="#" class="button yith-wcqv-button tbay-tooltip" data-toggle="tooltip" title="Quick view"  data-product_id="4297">
+						<span>
+							<i class="icofont-eye-alt"> </i>
+						</span>
+					</a>
+					
+				
+														<div class="yith-compare">
+						<a href="/?action=yith-woocompare-add-product&amp;id=4297&amp;_wpnonce=095c73663a" data-toggle="tooltip" title="Compare" class="compare tbay-tooltip" data-product_id="4297">
+							<i class="icofont-refresh"></i>
+						</a>
+					</div>
+				 
+			</div>		
+		</div>
+    </div>
+</div>
+            </div>
+		
+					
+    	
+				
+        
+            <div class="products-grid product type-product post-4474 status-publish outofstock product_cat-all-products product_cat-green-peas product_cat-milk-products product_cat-paneer-milk-products has-post-thumbnail featured taxable shipping-taxable product-type-simple">
+                <div class="product-block grid " data-product-id="4474">
+	<div class="product-content">
+		<div class="block-inner">
+			<figure class="image">
+								<a title="Katraj Green Peas" href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/katraj-green-peas-2/" class="product-image">
+					<img decoding="async" width="405" height="330" src="https://katrajdairy.com/wp-content/uploads/2022/06/IMG-20220111-WA0001green1-405x330.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><span class="onsale"></span><span class="out-stock">Out of Stock</span>				</a>
+				
+				<div class="button-wishlist">
+					
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-4474  wishlist-fragment on-first-load"
+	data-fragment-ref="4474"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:4474,&quot;parent_product_id&quot;:4474,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Wishlist&quot;,&quot;already_in_wishslist_text&quot;:&quot;&quot;,&quot;product_added_text&quot;:&quot;&quot;,&quot;heading_icon&quot;:&quot;&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=4474&#038;_wpnonce=38b8f5e9b2"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="4474"
+		data-product-type="simple"
+		data-original-product-id="4474"
+		data-title="Wishlist"
+		rel="nofollow"
+	>
+				<span>Wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+  
+				</div>
+			  
+
+				
+			</figure>
+			
+			
+
+		</div>
+		<div class="caption">
+			<div class="meta">
+				<div class="infor">
+					<div class="name-subtitle">
+						<h3 class="name"><a href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/katraj-green-peas-2/">Katraj Green Peas</a></h3>
+
+												
+					</div>
+					
+					
+<div class="rating">
+		<div class="star-rating">
+	</div>
+	<div class="count">0</div>
+	</div>
+					
+				</div>
+			</div>  
+			<div class="groups-button clearfix">
+				<div class="add-cart"><a href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/katraj-green-peas-2/" rel="nofollow" data-product_id="4474" data-product_sku="" data-quantity="1" class=" button product_type_simple product_type_simple" data-product_id="4474" data-product_sku="" aria-label="Read more about &ldquo;Katraj Green Peas&rdquo;" aria-describedby="" rel="nofollow"><i class="icofont-shopping-cart"></i> <span class="title-cart">Read more</span></a></div>				
+									<a href="#" class="button yith-wcqv-button tbay-tooltip" data-toggle="tooltip" title="Quick view"  data-product_id="4474">
+						<span>
+							<i class="icofont-eye-alt"> </i>
+						</span>
+					</a>
+					
+				
+														<div class="yith-compare">
+						<a href="/?action=yith-woocompare-add-product&amp;id=4474&amp;_wpnonce=095c73663a" data-toggle="tooltip" title="Compare" class="compare tbay-tooltip" data-product_id="4474">
+							<i class="icofont-refresh"></i>
+						</a>
+					</div>
+				 
+			</div>		
+		</div>
+    </div>
+</div>
+            </div>
+		
+							</div>
+					
+    	
+							<div class="item">
+				
+        
+            <div class="products-grid product type-product post-4301 status-publish last instock product_cat-all-products product_cat-lassi-milk-products product_cat-milk-products has-post-thumbnail taxable shipping-taxable purchasable product-type-variable">
+                <div class="product-block grid " data-product-id="4301">
+	<div class="product-content">
+		<div class="block-inner">
+			<figure class="image">
+								<a title="Lassi" href="https://katrajdairy.com/shop/milk-products/lassi-milk-products/lassi-2/" class="product-image">
+					<img loading="lazy" decoding="async" width="405" height="330" src="https://katrajdairy.com/wp-content/uploads/2022/06/Lassi-Thumbnail-1-405x330.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+				
+				<div class="button-wishlist">
+					
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-4301  wishlist-fragment on-first-load"
+	data-fragment-ref="4301"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:4301,&quot;parent_product_id&quot;:4301,&quot;product_type&quot;:&quot;variable&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Wishlist&quot;,&quot;already_in_wishslist_text&quot;:&quot;&quot;,&quot;product_added_text&quot;:&quot;&quot;,&quot;heading_icon&quot;:&quot;&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=4301&#038;_wpnonce=38b8f5e9b2"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="4301"
+		data-product-type="variable"
+		data-original-product-id="4301"
+		data-title="Wishlist"
+		rel="nofollow"
+	>
+				<span>Wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+  
+				</div>
+			  
+
+				
+			</figure>
+			
+			
+
+		</div>
+		<div class="caption">
+			<div class="meta">
+				<div class="infor">
+					<div class="name-subtitle">
+						<h3 class="name"><a href="https://katrajdairy.com/shop/milk-products/lassi-milk-products/lassi-2/">Lassi</a></h3>
+
+												
+					</div>
+					
+					
+<div class="rating">
+		<div class="star-rating">
+	</div>
+	<div class="count">0</div>
+	</div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>20.00</bdi></span></span>
+					
+				</div>
+			</div>  
+			<div class="groups-button clearfix">
+				<div class="add-cart"><a href="https://katrajdairy.com/shop/milk-products/lassi-milk-products/lassi-2/" rel="nofollow" data-product_id="4301" data-product_sku="" data-quantity="1" class=" button product_type_variable add_to_cart_button product_type_variable" data-product_id="4301" data-product_sku="" aria-label="Select options for &ldquo;Lassi&rdquo;" aria-describedby="This product has multiple variants. The options may be chosen on the product page" rel="nofollow"><i class="icofont-shopping-cart"></i> <span class="title-cart">Select options</span></a></div>				
+									<a href="#" class="button yith-wcqv-button tbay-tooltip" data-toggle="tooltip" title="Quick view"  data-product_id="4301">
+						<span>
+							<i class="icofont-eye-alt"> </i>
+						</span>
+					</a>
+					
+				
+														<div class="yith-compare">
+						<a href="/?action=yith-woocompare-add-product&amp;id=4301&amp;_wpnonce=095c73663a" data-toggle="tooltip" title="Compare" class="compare tbay-tooltip" data-product_id="4301">
+							<i class="icofont-refresh"></i>
+						</a>
+					</div>
+				 
+			</div>		
+		</div>
+    </div>
+</div>
+            </div>
+		
+					
+    	
+				
+        
+            <div class="products-grid product type-product post-4322 status-publish first instock product_cat-all-products product_cat-lassi-milk-products product_cat-milk-products has-post-thumbnail taxable shipping-taxable purchasable product-type-variable">
+                <div class="product-block grid " data-product-id="4322">
+	<div class="product-content">
+		<div class="block-inner">
+			<figure class="image">
+								<a title="Lassi &#8211; Mango" href="https://katrajdairy.com/shop/milk-products/lassi-milk-products/lassi-mango-2/" class="product-image">
+					<img loading="lazy" decoding="async" width="405" height="330" src="https://katrajdairy.com/wp-content/uploads/2022/06/Mango-Lassi-Thumbnail-405x330.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+				
+				<div class="button-wishlist">
+					
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-4322  wishlist-fragment on-first-load"
+	data-fragment-ref="4322"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:4322,&quot;parent_product_id&quot;:4322,&quot;product_type&quot;:&quot;variable&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Wishlist&quot;,&quot;already_in_wishslist_text&quot;:&quot;&quot;,&quot;product_added_text&quot;:&quot;&quot;,&quot;heading_icon&quot;:&quot;&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=4322&#038;_wpnonce=38b8f5e9b2"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="4322"
+		data-product-type="variable"
+		data-original-product-id="4322"
+		data-title="Wishlist"
+		rel="nofollow"
+	>
+				<span>Wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+  
+				</div>
+			  
+
+				
+			</figure>
+			
+			
+
+		</div>
+		<div class="caption">
+			<div class="meta">
+				<div class="infor">
+					<div class="name-subtitle">
+						<h3 class="name"><a href="https://katrajdairy.com/shop/milk-products/lassi-milk-products/lassi-mango-2/">Lassi &#8211; Mango</a></h3>
+
+												
+					</div>
+					
+					
+<div class="rating">
+		<div class="star-rating">
+	</div>
+	<div class="count">0</div>
+	</div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>30.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>300.00</bdi></span></span>
+					
+				</div>
+			</div>  
+			<div class="groups-button clearfix">
+				<div class="add-cart"><a href="https://katrajdairy.com/shop/milk-products/lassi-milk-products/lassi-mango-2/" rel="nofollow" data-product_id="4322" data-product_sku="" data-quantity="1" class=" button product_type_variable add_to_cart_button product_type_variable" data-product_id="4322" data-product_sku="" aria-label="Select options for &ldquo;Lassi - Mango&rdquo;" aria-describedby="This product has multiple variants. The options may be chosen on the product page" rel="nofollow"><i class="icofont-shopping-cart"></i> <span class="title-cart">Select options</span></a></div>				
+									<a href="#" class="button yith-wcqv-button tbay-tooltip" data-toggle="tooltip" title="Quick view"  data-product_id="4322">
+						<span>
+							<i class="icofont-eye-alt"> </i>
+						</span>
+					</a>
+					
+				
+														<div class="yith-compare">
+						<a href="/?action=yith-woocompare-add-product&amp;id=4322&amp;_wpnonce=095c73663a" data-toggle="tooltip" title="Compare" class="compare tbay-tooltip" data-product_id="4322">
+							<i class="icofont-refresh"></i>
+						</a>
+					</div>
+				 
+			</div>		
+		</div>
+    </div>
+</div>
+            </div>
+		
+							</div>
+					
+    	
+							<div class="item">
+				
+        
+            <div class="products-grid product type-product post-4463 status-publish outofstock product_cat-all-products product_cat-lassi-milk-products product_cat-milk-products has-post-thumbnail taxable shipping-taxable purchasable product-type-variable">
+                <div class="product-block grid " data-product-id="4463">
+	<div class="product-content">
+		<div class="block-inner">
+			<figure class="image">
+								<a title="Lassi &#8211; Pineapple" href="https://katrajdairy.com/shop/milk-products/lassi-milk-products/lassi-pineapple-2/" class="product-image">
+					<img loading="lazy" decoding="async" width="405" height="330" src="https://katrajdairy.com/wp-content/uploads/2022/06/Pineapple-Lassi-Thumbnail-405x330.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><span class="out-stock">Out of Stock</span>				</a>
+				
+				<div class="button-wishlist">
+					
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-4463  wishlist-fragment on-first-load"
+	data-fragment-ref="4463"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:4463,&quot;parent_product_id&quot;:4463,&quot;product_type&quot;:&quot;variable&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Wishlist&quot;,&quot;already_in_wishslist_text&quot;:&quot;&quot;,&quot;product_added_text&quot;:&quot;&quot;,&quot;heading_icon&quot;:&quot;&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=4463&#038;_wpnonce=38b8f5e9b2"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="4463"
+		data-product-type="variable"
+		data-original-product-id="4463"
+		data-title="Wishlist"
+		rel="nofollow"
+	>
+				<span>Wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+  
+				</div>
+			  
+
+				
+			</figure>
+			
+			
+
+		</div>
+		<div class="caption">
+			<div class="meta">
+				<div class="infor">
+					<div class="name-subtitle">
+						<h3 class="name"><a href="https://katrajdairy.com/shop/milk-products/lassi-milk-products/lassi-pineapple-2/">Lassi &#8211; Pineapple</a></h3>
+
+												
+					</div>
+					
+					
+<div class="rating">
+		<div class="star-rating">
+	</div>
+	<div class="count">0</div>
+	</div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>30.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>300.00</bdi></span></span>
+					
+				</div>
+			</div>  
+			<div class="groups-button clearfix">
+				<div class="add-cart"><a href="https://katrajdairy.com/shop/milk-products/lassi-milk-products/lassi-pineapple-2/" rel="nofollow" data-product_id="4463" data-product_sku="" data-quantity="1" class=" button product_type_variable product_type_variable" data-product_id="4463" data-product_sku="" aria-label="Select options for &ldquo;Lassi - Pineapple&rdquo;" aria-describedby="This product has multiple variants. The options may be chosen on the product page" rel="nofollow"><i class="icofont-shopping-cart"></i> <span class="title-cart">Select options</span></a></div>				
+									<a href="#" class="button yith-wcqv-button tbay-tooltip" data-toggle="tooltip" title="Quick view"  data-product_id="4463">
+						<span>
+							<i class="icofont-eye-alt"> </i>
+						</span>
+					</a>
+					
+				
+														<div class="yith-compare">
+						<a href="/?action=yith-woocompare-add-product&amp;id=4463&amp;_wpnonce=095c73663a" data-toggle="tooltip" title="Compare" class="compare tbay-tooltip" data-product_id="4463">
+							<i class="icofont-refresh"></i>
+						</a>
+					</div>
+				 
+			</div>		
+		</div>
+    </div>
+</div>
+            </div>
+		
+					
+    	
+				
+        
+            <div class="products-grid product type-product post-3967 status-publish last instock product_cat-all-products product_cat-milk-products product_cat-paneer-milk-products has-post-thumbnail taxable shipping-taxable purchasable product-type-variable">
+                <div class="product-block grid " data-product-id="3967">
+	<div class="product-content">
+		<div class="block-inner">
+			<figure class="image">
+								<a title="Low Fat Paneer" href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/low-fat-paneer/" class="product-image">
+					<img loading="lazy" decoding="async" width="405" height="330" src="https://katrajdairy.com/wp-content/uploads/2022/06/Low-Fat-Paneer-Thumbnail-1-405x330.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+				
+				<div class="button-wishlist">
+					
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-3967  wishlist-fragment on-first-load"
+	data-fragment-ref="3967"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:3967,&quot;parent_product_id&quot;:3967,&quot;product_type&quot;:&quot;variable&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Wishlist&quot;,&quot;already_in_wishslist_text&quot;:&quot;&quot;,&quot;product_added_text&quot;:&quot;&quot;,&quot;heading_icon&quot;:&quot;&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=3967&#038;_wpnonce=38b8f5e9b2"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="3967"
+		data-product-type="variable"
+		data-original-product-id="3967"
+		data-title="Wishlist"
+		rel="nofollow"
+	>
+				<span>Wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+  
+				</div>
+			  
+
+				
+			</figure>
+			
+			
+
+		</div>
+		<div class="caption">
+			<div class="meta">
+				<div class="infor">
+					<div class="name-subtitle">
+						<h3 class="name"><a href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/low-fat-paneer/">Low Fat Paneer</a></h3>
+
+												
+					</div>
+					
+					
+<div class="rating">
+		<div class="star-rating">
+	</div>
+	<div class="count">0</div>
+	</div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>82.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>350.00</bdi></span></span>
+					
+				</div>
+			</div>  
+			<div class="groups-button clearfix">
+				<div class="add-cart"><a href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/low-fat-paneer/" rel="nofollow" data-product_id="3967" data-product_sku="" data-quantity="1" class=" button product_type_variable add_to_cart_button product_type_variable" data-product_id="3967" data-product_sku="" aria-label="Select options for &ldquo;Low Fat Paneer&rdquo;" aria-describedby="This product has multiple variants. The options may be chosen on the product page" rel="nofollow"><i class="icofont-shopping-cart"></i> <span class="title-cart">Select options</span></a></div>				
+									<a href="#" class="button yith-wcqv-button tbay-tooltip" data-toggle="tooltip" title="Quick view"  data-product_id="3967">
+						<span>
+							<i class="icofont-eye-alt"> </i>
+						</span>
+					</a>
+					
+				
+														<div class="yith-compare">
+						<a href="/?action=yith-woocompare-add-product&amp;id=3967&amp;_wpnonce=095c73663a" data-toggle="tooltip" title="Compare" class="compare tbay-tooltip" data-product_id="3967">
+							<i class="icofont-refresh"></i>
+						</a>
+					</div>
+				 
+			</div>		
+		</div>
+    </div>
+</div>
+            </div>
+		
+							</div>
+					
+    	
+							<div class="item">
+				
+        
+            <div class="products-grid product type-product post-4303 status-publish first instock product_cat-all-products product_cat-milk-products product_cat-paneer-milk-products has-post-thumbnail featured taxable shipping-taxable purchasable product-type-variable">
+                <div class="product-block grid " data-product-id="4303">
+	<div class="product-content">
+		<div class="block-inner">
+			<figure class="image">
+								<a title="Malai Paneer" href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/malai-paneer-2/" class="product-image">
+					<img loading="lazy" decoding="async" width="405" height="330" src="https://katrajdairy.com/wp-content/uploads/2022/06/Malai-Paneer-Thumbnail-405x330.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><span class="onsale"></span>				</a>
+				
+				<div class="button-wishlist">
+					
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-4303  wishlist-fragment on-first-load"
+	data-fragment-ref="4303"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:4303,&quot;parent_product_id&quot;:4303,&quot;product_type&quot;:&quot;variable&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Wishlist&quot;,&quot;already_in_wishslist_text&quot;:&quot;&quot;,&quot;product_added_text&quot;:&quot;&quot;,&quot;heading_icon&quot;:&quot;&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=4303&#038;_wpnonce=38b8f5e9b2"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="4303"
+		data-product-type="variable"
+		data-original-product-id="4303"
+		data-title="Wishlist"
+		rel="nofollow"
+	>
+				<span>Wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+  
+				</div>
+			  
+
+				
+			</figure>
+			
+			
+
+		</div>
+		<div class="caption">
+			<div class="meta">
+				<div class="infor">
+					<div class="name-subtitle">
+						<h3 class="name"><a href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/malai-paneer-2/">Malai Paneer</a></h3>
+
+												
+					</div>
+					
+					
+<div class="rating">
+		<div class="star-rating">
+	</div>
+	<div class="count">0</div>
+	</div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>95.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>410.00</bdi></span></span>
+					
+				</div>
+			</div>  
+			<div class="groups-button clearfix">
+				<div class="add-cart"><a href="https://katrajdairy.com/shop/milk-products/paneer-milk-products/malai-paneer-2/" rel="nofollow" data-product_id="4303" data-product_sku="" data-quantity="1" class=" button product_type_variable add_to_cart_button product_type_variable" data-product_id="4303" data-product_sku="" aria-label="Select options for &ldquo;Malai Paneer&rdquo;" aria-describedby="This product has multiple variants. The options may be chosen on the product page" rel="nofollow"><i class="icofont-shopping-cart"></i> <span class="title-cart">Select options</span></a></div>				
+									<a href="#" class="button yith-wcqv-button tbay-tooltip" data-toggle="tooltip" title="Quick view"  data-product_id="4303">
+						<span>
+							<i class="icofont-eye-alt"> </i>
+						</span>
+					</a>
+					
+				
+														<div class="yith-compare">
+						<a href="/?action=yith-woocompare-add-product&amp;id=4303&amp;_wpnonce=095c73663a" data-toggle="tooltip" title="Compare" class="compare tbay-tooltip" data-product_id="4303">
+							<i class="icofont-refresh"></i>
+						</a>
+					</div>
+				 
+			</div>		
+		</div>
+    </div>
+</div>
+            </div>
+		
+					
+    	
+				
+        
+            <div class="products-grid product type-product post-4320 status-publish instock product_cat-all-products product_cat-best-sellers product_cat-milk-products product_cat-taak-milk-products has-post-thumbnail taxable shipping-taxable purchasable product-type-variable">
+                <div class="product-block grid " data-product-id="4320">
+	<div class="product-content">
+		<div class="block-inner">
+			<figure class="image">
+								<a title="Plain Tak (Butter Milk)" href="https://katrajdairy.com/shop/milk-products/taak-milk-products/plain-tak-butter-milk-2/" class="product-image">
+					<img loading="lazy" decoding="async" width="405" height="330" src="https://katrajdairy.com/wp-content/uploads/2022/06/Tak-NewThumbnail-405x330.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+				
+				<div class="button-wishlist">
+					
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-4320  wishlist-fragment on-first-load"
+	data-fragment-ref="4320"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:4320,&quot;parent_product_id&quot;:4320,&quot;product_type&quot;:&quot;variable&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Wishlist&quot;,&quot;already_in_wishslist_text&quot;:&quot;&quot;,&quot;product_added_text&quot;:&quot;&quot;,&quot;heading_icon&quot;:&quot;&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=4320&#038;_wpnonce=38b8f5e9b2"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="4320"
+		data-product-type="variable"
+		data-original-product-id="4320"
+		data-title="Wishlist"
+		rel="nofollow"
+	>
+				<span>Wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+  
+				</div>
+			  
+
+				
+			</figure>
+			
+			
+
+		</div>
+		<div class="caption">
+			<div class="meta">
+				<div class="infor">
+					<div class="name-subtitle">
+						<h3 class="name"><a href="https://katrajdairy.com/shop/milk-products/taak-milk-products/plain-tak-butter-milk-2/">Plain Tak (Butter Milk)</a></h3>
+
+												
+					</div>
+					
+					
+<div class="rating">
+		<div class="star-rating">
+	</div>
+	<div class="count">0</div>
+	</div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>20.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>44.00</bdi></span></span>
+					
+				</div>
+			</div>  
+			<div class="groups-button clearfix">
+				<div class="add-cart"><a href="https://katrajdairy.com/shop/milk-products/taak-milk-products/plain-tak-butter-milk-2/" rel="nofollow" data-product_id="4320" data-product_sku="" data-quantity="1" class=" button product_type_variable add_to_cart_button product_type_variable" data-product_id="4320" data-product_sku="" aria-label="Select options for &ldquo;Plain Tak (Butter Milk)&rdquo;" aria-describedby="This product has multiple variants. The options may be chosen on the product page" rel="nofollow"><i class="icofont-shopping-cart"></i> <span class="title-cart">Select options</span></a></div>				
+									<a href="#" class="button yith-wcqv-button tbay-tooltip" data-toggle="tooltip" title="Quick view"  data-product_id="4320">
+						<span>
+							<i class="icofont-eye-alt"> </i>
+						</span>
+					</a>
+					
+				
+														<div class="yith-compare">
+						<a href="/?action=yith-woocompare-add-product&amp;id=4320&amp;_wpnonce=095c73663a" data-toggle="tooltip" title="Compare" class="compare tbay-tooltip" data-product_id="4320">
+							<i class="icofont-refresh"></i>
+						</a>
+					</div>
+				 
+			</div>		
+		</div>
+    </div>
+</div>
+            </div>
+		
+							</div>
+					
+    </div> 
+ 
+			</div>
+		</div>
+	       
+</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid vc_recommended home_4 vc_custom_1654752655378"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_center  vc_custom_1655988743991">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://katrajdairy.com/milk/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="570" height="235" src="https://katrajdairy.com/wp-content/uploads/2022/05/Web-Baners-570-x-235_1.jpg" class="vc_single_image-img attachment-full" alt="" title="Web Baners 570 x 235_1" /></a>
+		</figure>
+	</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_center  vc_custom_1654752691184">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://katrajdairy.com/milk/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="570" height="235" src="https://katrajdairy.com/wp-content/uploads/2022/05/Web-Baners-570-x-235_2.jpg" class="vc_single_image-img attachment-full" alt="" title="Web Baners 570 x 235_2" /></a>
+		</figure>
+	</div></div></div></div></div></div></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1655988849893 vc_row-has-fill vc_row-no-padding"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://katrajdairy.com/shop/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="1920" height="400" src="https://katrajdairy.com/wp-content/uploads/2022/06/Web-Baners_Order-Now.jpg" class="vc_single_image-img attachment-full" alt="" title="Web Baners_Order Now" /></a>
+		</figure>
+	</div><div class="vc_btn3-container vc_btn3-center vc_custom_1655984604300" ><a style="background-color:#393186; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-custom" href="https://bp7.ed4.myftpupload.com/shop/" title="">Shop Now</a></div><div class="widget widget-brands ">
+        <div class="widget-content">
+    	    	    </div>
+</div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1655286134478"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><h3 style="text-align: center;font-family:Roboto Slab;font-weight:400;font-style:normal" class="vc_custom_heading" >Testimonials</h3>
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1654841550121" >
+		<div class="wpb_wrapper">
+				<div class="wtwp-testimonials-slider-wrp wptww-clearfix " data-conf="{&quot;slides_column&quot;:1,&quot;slides_scroll&quot;:1,&quot;dots&quot;:&quot;true&quot;,&quot;arrows&quot;:&quot;true&quot;,&quot;autoplay&quot;:&quot;true&quot;,&quot;autoplay_interval&quot;:3000,&quot;rtl&quot;:&quot;false&quot;,&quot;speed&quot;:300,&quot;adaptive_height&quot;:&quot;false&quot;}">
+		<div id="wptww-testimonials-slidelist-1" class="wptww-testimonials-slidelist design-1">
+		<div class="wptww-quote">
+	<div class="wptww-testimonial-left">
+					<div class="wptww-avtar-image"></div>
+			</div>
+	<div class="wptww-testimonial-content">
+		<i class="fa fa-quote-left"></i>
+		<h4>रमा लघाटे</h4>
+		<div class="wptww-testimonials-text">
+			<p>
+				 <em> उत्तम दर्जा, ताजेपणा, चवींचे वैविध्य आणि पारंपरिक चव म्हणजे कात्रज डेअरीचे पदार्थ. तुम्हीही नक्कीच चव चाखून बघा. </em> 			</p>
+		</div>
+	</div>
+	</div><div class="wptww-quote">
+	<div class="wptww-testimonial-left">
+					<div class="wptww-avtar-image"></div>
+			</div>
+	<div class="wptww-testimonial-content">
+		<i class="fa fa-quote-left"></i>
+		<h4>रंजना बनसोडे</h4>
+		<div class="wptww-testimonials-text">
+			<p>
+				 <em> घरात कोणताही गोड पदार्थ करायचे ठरले की दुध, दही सगळे काही मी कात्रज डेअरीचेच वापरते. आमच्या सासुबाईंपासून घरात कात्रज डेअरीचेच प्रॉडक्ट्स येतात आणि आता माझी नातवंडे देखील आवडीने कात्रजचेच पदार्थ मागवतात. </em> 			</p>
+		</div>
+	</div>
+	</div><div class="wptww-quote">
+	<div class="wptww-testimonial-left">
+					<div class="wptww-avtar-image"></div>
+			</div>
+	<div class="wptww-testimonial-content">
+		<i class="fa fa-quote-left"></i>
+		<h4>रेणुका येवलेकर</h4>
+		<div class="wptww-testimonials-text">
+			<p>
+				 <em> आमच्या घरात सगळ्यांना कात्रज डेअरीचेच प्रॉडक्ट्स आवडतात. अगदी लहानांपासून मोठ्यांपर्यंत सगळ्यांच्या आवडीनिवडी जपणारे कात्रज डेअरी अत्यंत दर्जेदार आणि चविष्ट प्रतीचे सगळे प्रॉडक्ट्स बाजारात आणतात. </em> 			</p>
+		</div>
+	</div>
+	</div><div class="wptww-quote">
+	<div class="wptww-testimonial-left">
+					<div class="wptww-avtar-image"></div>
+			</div>
+	<div class="wptww-testimonial-content">
+		<i class="fa fa-quote-left"></i>
+		<h4>Sanket Gharge</h4>
+		<div class="wptww-testimonials-text">
+			<p>
+				 <em> We are very much happy and satisfied with the quality of Katraj milk and also other dairy products like ice creams, paneer, flavored milk and lassi. We trust Karaj Dairy Products for their continued quality and standards. My children enjoy the taste of Katraj milk and they enjoy the desserts made out of it at home. Curd prepared from this milk is thick and rich in taste. </em> 			</p>
+		</div>
+	</div>
+	</div><div class="wptww-quote">
+	<div class="wptww-testimonial-left">
+					<div class="wptww-avtar-image"></div>
+			</div>
+	<div class="wptww-testimonial-content">
+		<i class="fa fa-quote-left"></i>
+		<h4>Varsha Dhumal</h4>
+		<div class="wptww-testimonials-text">
+			<p>
+				 <em> We just wanted to let you know that it’s the best and tastiest milk I have ever had. We certainly enjoy all the products from Katraj dairy and they are our favorite. If we have functions and celebrations at home or want to gift something edible to friends or relatives, we prefer Katraj dairy. </em> 			</p>
+		</div>
+	</div>
+	</div><div class="wptww-quote">
+	<div class="wptww-testimonial-left">
+					<div class="wptww-avtar-image"></div>
+			</div>
+	<div class="wptww-testimonial-content">
+		<i class="fa fa-quote-left"></i>
+		<h4>Anil Mali</h4>
+		<div class="wptww-testimonials-text">
+			<p>
+				 <em> We love Katraj milk and its varied products available in the market. Every day we use Katraj milk and our son loves all dairy products from Katraj. Talking about the fact; it tastes much better than any other brand that we tried earlier. Tea tastes excellent with Katraj milk and asking my son to have a glass of milk had never been so easier. He always utters Mom the milk tastes yummy and every ready to drink it. </em> 			</p>
+		</div>
+	</div>
+	</div>		</div>
+	</div>
+
+	
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_left">
+		<h2 class="wpb_heading wpb_singleimage_heading widget-title title-lg space-10">sadfv</h2>
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="1920" height="500" src="https://katrajdairy.com/wp-content/uploads/2017/08/slider-6.jpg" class="vc_single_image-img attachment-full" alt="" title="slider-6" /></div>
+		</figure>
+	</div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1513156829505"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1655187611962"><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="1536" height="1229" src="https://katrajdairy.com/wp-content/uploads/2022/06/Katraj-1536x1229-1.jpg" class="vc_single_image-img attachment-full" alt="" title="Katraj-1536x1229" /></div>
+		</figure>
+	</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_center  vc_custom_1654752461988">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://www.sarkarnama.in/pune/katraj-dairy-will-increase-purchase-price-of-cows-milk-by-rs-2-keshartai-pawar-vd83" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="749" height="428" src="https://katrajdairy.com/wp-content/uploads/2022/06/Untitled.jpg" class="vc_single_image-img attachment-full" alt="" title="Untitled" /></a>
+		</figure>
+	</div><h4 style="text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading" ><a href="https://www.sarkarnama.in/pune/katraj-dairy-will-increase-purchase-price-of-cows-milk-by-rs-2-keshartai-pawar-vd83" target="_blank">कात्रज’चे अध्यक्ष होताच तिसऱ्याच दिवशी केशरताई पवारांचा शेतकऱ्यांसाठी मोठा निर्णय…..</a></h4></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1513156829505"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1655187594375"><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://katrajdairy.com/shop/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="800" height="500" src="https://katrajdairy.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-01-19-at-10.23.47-AM_1.jpg" class="vc_single_image-img attachment-full" alt="" title="WhatsApp Image 2022-01-19 at 10.23.47 AM_1" /></a>
+		</figure>
+	</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://katrajdairy.com/shop/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="800" height="500" src="https://katrajdairy.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-01-19-at-10.23.48-AM_1.jpg" class="vc_single_image-img attachment-full" alt="" title="WhatsApp Image 2022-01-19 at 10.23.48 AM_1" /></a>
+		</figure>
+	</div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div></div></div>
+			</div><!-- .site-main -->
+
+		</div><!-- .content-area -->
+		
+				
+				
+	</div>
+</section>
+
+	</div><!-- .site-content -->
+
+	<footer id="tbay-footer" class="tbay-footer" role="contentinfo">
+					<div class="vc_row wpb_row vc_row-fluid footer-top"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid top-footer"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><strong>Newsletter</strong> Sign Up<br />
+(Get <strong>30% off</strong> coupon today subscibers)</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1505964015053" >
+		<div class="wpb_wrapper">
+			<p>Join <strong>35.000+ subscribers</strong> and get a new discount coupon on every Wednesday.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="widget widget-newletter ">
+        <div class="widget-content"> 
+				
+		
+		Please create a newsletter form from Mailchip plugins	</div>
+</div></div></div></div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid footer-content"><div class="container"><div class="row"><div class="marg-bt-15 wpb_column vc_column_container vc_col-sm-4 vc_col-md-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+
+<div class="wpb_single_image widget wpb_content_element vc_align_left   text-left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" width="156" height="38" src="https://katrajdairy.com/wp-content/uploads/2017/08/google-play.png" class="vc_single_image-img attachment-full" alt="" title="google-play" decoding="async" /></div>
+		</figure>
+	</div><div class="tbay_custom_menu wpb_content_element none-menu"><div class="widget widget_nav_menu"><h2 class="widgettitle">Important Links</h2><nav class="menu"><div class="nav menu-category-menu-container"><ul id="information-pjDjh" class="menu" data-id="information"><li id="menu-item-4549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4549 aligned-left"><a href="https://katrajdairy.com/events/">Events</a></li>
+<li id="menu-item-3586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3586 aligned-left"><a href="https://katrajdairy.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-3576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3576 aligned-left"><a href="https://katrajdairy.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-3569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3569 aligned-left"><a href="https://tender.katrajdairy.com/">Tender and Notice</a></li>
+<li id="menu-item-3687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3687 aligned-left"><a href="https://katrajdairy.com/feedback/">Feedback</a></li>
+</ul></div></nav></div></div></div></div></div><div class="marg-bt-25 wpb_column vc_column_container vc_col-sm-4 vc_col-md-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="tbay_custom_menu wpb_content_element none-menu"><div class="widget widget_nav_menu"><h2 class="widgettitle">Quick Links</h2><nav class="menu"><div class="nav menu-category-menu-container"><ul id="footer-1-wVF4K" class="menu" data-id="footer-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4957 aligned-left"><a href="https://katrajdairy.com/board-of-directors/">Board of Directors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5104 aligned-left"><a href="https://katrajdairy.com/our-parlours/">Our Parlours</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5194 aligned-"><a href="https://katrajdairy.com/iso-certification/">ISO Certification</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3557 aligned-left"><a href="#">Chairman&#8217;s speech</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3700 aligned-left"><a href="https://katrajdairy.com/awards/">Awards</a></li>
+</ul></div></nav></div></div></div></div></div><div class="marg-bt-25 clearfix wpb_column vc_column_container vc_col-sm-4 vc_col-md-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="tbay_custom_menu wpb_content_element none-menu"><div class="widget widget_nav_menu"><h2 class="widgettitle">guide &amp; help</h2><nav class="menu"><div class="nav menu-category-menu-container"><ul id="footer-2-bJUQf" class="menu" data-id="footer-2"><li id="menu-item-3563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3563 aligned-left"><a href="#">Financial Annual Report</a></li>
+<li id="menu-item-3612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3612 aligned-left"><a href="https://katrajdairy.com/services/">Services</a></li>
+<li id="menu-item-4869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4869 aligned-"><a href="https://katrajdairy.com/photo-gallery/">Photo Gallery</a></li>
+<li id="menu-item-3682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3682 aligned-"><a href="https://katrajdairy.com/media-and-ads/">Media and Ads</a></li>
+</ul></div></nav></div></div></div></div></div><div class="marg-bt-25 wpb_column vc_column_container vc_col-sm-8 vc_col-md-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="widget widget-text-heading center  ">
+	        <h3 class="widget-title" >
+           <span>contact info</span>
+        </h3>
+        </div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>+91-8380014437</p>
+<p>Katraj Dairy, Pune – Satara Road,<br />
+Opp. Rajiv Gandhi Udyan,<br />
+Katraj, Pune – 411046.</p>
+<p>katrajmilk@gmail.com</p>
+
+		</div>
+	</div>
+<div class="widget widget-social ">
+        <div class="widget-content">
+    			<ul class="social list-inline">
+		    		                <li>
+		                    <a href="https://www.facebook.com/Katraj-Dairy-119363595381448/" class="facebook" target="_blank">
+		                        <i class="fa fa-facebook "></i>
+		                    </a>
+		                </li>
+		    		                <li>
+		                    <a href="https://twitter.com/katraj_dairy" class="twitter" target="_blank">
+		                        <i class="fa fa-twitter "></i>
+		                    </a>
+		                </li>
+		    		                <li>
+		                    <a href="https://www.instagram.com/" class="instagram" target="_blank">
+		                        <i class="fa fa-instagram "></i>
+		                    </a>
+		                </li>
+		    		</ul>
+	</div>
+</div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid bottom-footer vc_custom_1505445847374"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_center  vc_custom_1503910320289">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="#" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" width="155" height="36" src="https://katrajdairy.com/wp-content/uploads/2017/08/logo.png" class="vc_single_image-img attachment-full" alt="" title="logo" decoding="async" /></a>
+		</figure>
+	</div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_single_image widget wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" width="242" height="15" src="https://katrajdairy.com/wp-content/uploads/2017/08/payments.png" class="vc_single_image-img attachment-full" alt="" title="payments" decoding="async" /></div>
+		</figure>
+	</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  coppyright" >
+		<div class="wpb_wrapper">
+			<p>© Copyright Pune Zillha Sahakari Dudh Utpadak Sangh Limited 2022 Developed by <a href="https://www.trimitiy.com/"> Trimitiy</a> </p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="tbay_custom_menu wpb_content_element menu-bottom-ft none-menu"><div class="widget widget_nav_menu"><nav class="menu"></nav></div></div></div></div></div></div></div></div></div></div></div></div>
+
+&nbsp;					
+	</footer><!-- .site-footer -->
+
+		
+	
+			<div class="tbay-to-top v4">
+			
+						<a class="text-skin wishlist-icon" href="https://katrajdairy.com/wishlist/"><i class="icofont-heart-alt" aria-hidden="true"></i><span class="count_wishlist">0</span></a>
+						
+			
+						<!-- Setting -->
+			<div class="tbay-cart top-cart hidden-xs">
+				<a href="https://katrajdairy.com/cart/" class="mini-cart">
+					<i class="icofont-shopping-cart"></i>
+					<span class="mini-cart-items-fixed">
+					   0					</span>
+				</a>
+			</div>
+						
+			<a href="javascript:void(0);" id="back-to-top">
+				<p>TOP</p>
+			</a>
+		</div>
+		
+		
+		
+	
+
+</div><!-- .site -->
+
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		
+<div id="yith-quick-view-modal">
+	<div class="yith-quick-view-overlay"></div>
+	<div class="yith-wcqv-wrapper">
+		<div class="yith-wcqv-main">
+			<div class="yith-wcqv-head">
+				<a href="#" id="yith-quick-view-close" class="yith-wcqv-close">X</a>
+			</div>
+			<div id="yith-quick-view-content" class="woocommerce single-product"></div>
+		</div>
+	</div>
+</div>
+    <div class="modal fade" id="tbay-cart-modal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <button type="button" class="close btn btn-close" data-dismiss="modal" aria-hidden="true">
+                        <i class="tb-icon tb-icon-zt-close"></i>
+                    </button>
+                    <div class="modal-body-content"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+                <div class="tbay-close-side"></div>
+           <script type="text/html" id="wpb-modifications"></script><link href="https://fonts.googleapis.com/css?family=Roboto:400&display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script>
+		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+</script>
+			<link rel="preload" as="font" id="rs-icon-set-revicon-woff" href="https://katrajdairy.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888" type="font/woff" crossorigin="anonymous" media="all" />
+			<link rel="preload" as="font" id="rs-icon-set-fa-icon-woff" type="font/woff2" crossorigin="anonymous" href="https://katrajdairy.com/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0" media="all" />
+			<link rel="stylesheet" property="stylesheet" id="rs-icon-set-fa-icon-css" href="https://katrajdairy.com/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css" type="text/css" media="all" />
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" aria-label="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" aria-label="Share"></button>
+				<button class="pswp__button pswp__button--fs" aria-label="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" aria-label="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div>
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" aria-label="Previous (arrow left)"></button>
+			<button class="pswp__button pswp__button--arrow--right" aria-label="Next (arrow right)"></button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
+</script>
+<link rel='stylesheet' id='vc_google_fonts_roboto_slab100300regular700-css' href='https://fonts.googleapis.com/css?family=Roboto+Slab%3A100%2C300%2Cregular%2C700&#038;ver=6.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_google_fonts_abril_fatfaceregular-css' href='https://fonts.googleapis.com/css?family=Abril+Fatface%3Aregular&#038;ver=6.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-css' href='https://katrajdairy.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=8.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-default-skin-css' href='https://katrajdairy.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=8.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://katrajdairy.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.14' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+		#rev_slider_4_1_wrapper .custom.tparrows{cursor:pointer;background:#000;background:rgba(0,0,0,0.5);width:40px;height:40px;position:absolute;display:block;z-index:1000}#rev_slider_4_1_wrapper .custom.tparrows.rs-touchhover{background:#000}#rev_slider_4_1_wrapper .custom.tparrows:before{font-family:'revicons';font-size:15px;color:#fff;display:block;line-height:40px;text-align:center}#rev_slider_4_1_wrapper .custom.tparrows.tp-leftarrow:before{content:'\e824'}#rev_slider_4_1_wrapper .custom.tparrows.tp-rightarrow:before{content:'\e825'}
+</style>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2" id="jquery-ui-menu-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/dist/a11y.min.js?ver=7032343a947cfccf5608" id="wp-a11y-js"></script>
+<script type="text/javascript" id="jquery-ui-autocomplete-js-extra">
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2" id="jquery-ui-autocomplete-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/skins/organic/autocomplete-search-init.js" id="greenmart-autocomplete-js-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0" id="jquery-selectBox-js"></script>
+<script type="text/javascript" src="//katrajdairy.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6" id="prettyPhoto-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jquery-yith-wcwl-js-extra">
+/* <![CDATA[ */
+var yith_wcwl_l10n = {"ajax_url":"\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","yith_wcwl_button_position":"add-to-cart","multi_wishlist":"","hide_add_button":"1","enable_ajax_loading":"","ajax_loader_url":"https:\/\/katrajdairy.com\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader-alt.svg","remove_from_wishlist_after_add_to_cart":"1","is_wishlist_responsive":"1","time_to_close_prettyphoto":"3000","fragments_index_glue":".","reload_on_found_variation":"1","mobile_media_query":"768","labels":{"cookie_disabled":"We are sorry, but this feature is available only if cookies on your browser are enabled.","added_to_cart_message":"<div class=\"woocommerce-notices-wrapper\"><div class=\"woocommerce-message\" role=\"alert\">Product added to cart successfully<\/div><\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem","load_mobile_action":"load_mobile","delete_item_action":"delete_item","save_title_action":"save_title","save_privacy_action":"save_privacy","load_fragments":"load_fragments"},"nonce":{"add_to_wishlist_nonce":"38b8f5e9b2","remove_from_wishlist_nonce":"11028cb3df","reload_wishlist_and_adding_elem_nonce":"e6d87b5094","load_mobile_nonce":"b2c746d9fe","delete_item_nonce":"8a8c88b90a","save_title_nonce":"5526164ca1","save_privacy_nonce":"3c718c3723","load_fragments_nonce":"c171c1fbb2"},"redirect_after_ask_estimate":"","ask_estimate_redirect_url":"https:\/\/katrajdairy.com"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.min.js?ver=3.31.0" id="jquery-yith-wcwl-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.2" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/katrajdairy.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.14" defer async id="tp-tools-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/wp-util.min.js?ver=6.4.1" id="wp-util-js"></script>
+<script type="text/javascript" id="wp-api-request-js-extra">
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/katrajdairy.com\/wp-json\/","nonce":"f44a52806c","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/api-request.min.js?ver=6.4.1" id="wp-api-request-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/dist/url.min.js?ver=b4979979018b684be209" id="wp-url-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-includes/js/dist/api-fetch.min.js?ver=0fa4dabf8bf2c7adf21a" id="wp-api-fetch-js"></script>
+<script type="text/javascript" id="wp-api-fetch-js-after">
+/* <![CDATA[ */
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://katrajdairy.com/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "f44a52806c" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://katrajdairy.com/wp-admin/admin-ajax.php?action=rest-nonce";
+/* ]]> */
+</script>
+<script type="text/javascript" id="woo-variation-swatches-js-extra">
+/* <![CDATA[ */
+var woo_variation_swatches_options = {"show_variation_label":"1","clear_on_reselect":"","variation_label_separator":":","is_mobile":"1","show_variation_stock":"","stock_label_threshold":"5","cart_redirect_after_add":"no","enable_ajax_add_to_cart":"yes","cart_url":"https:\/\/katrajdairy.com\/cart\/","is_cart":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1705465399" id="woo-variation-swatches-js"></script>
+<script type="text/javascript" id="yith-woocompare-main-js-extra">
+/* <![CDATA[ */
+var yith_woocompare = {"ajaxurl":"\/?wc-ajax=%%endpoint%%","actionadd":"yith-woocompare-add-product","actionremove":"yith-woocompare-remove-product","actionview":"yith-woocompare-view-table","actionreload":"yith-woocompare-reload-product","added_label":"Added","table_title":"Product Comparison","auto_open":"yes","loader":"https:\/\/katrajdairy.com\/wp-content\/plugins\/yith-woocommerce-compare\/assets\/images\/loader.gif","button_text":"Compare","cookie_name":"yith_woocompare_list","close_label":"Close"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/yith-woocommerce-compare/assets/js/woocompare.min.js?ver=2.36.0" id="yith-woocompare-main-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/yith-woocommerce-compare/assets/js/jquery.colorbox-min.js?ver=1.4.21" id="jquery-colorbox-js"></script>
+<script type="text/javascript" id="yith-wcqv-frontend-js-extra">
+/* <![CDATA[ */
+var yith_qv = {"ajaxurl":"\/wp-admin\/admin-ajax.php","loader":"https:\/\/katrajdairy.com\/wp-content\/plugins\/yith-woocommerce-quick-view\/assets\/image\/qv-loader.gif","lang":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/yith-woocommerce-quick-view/assets/js/frontend.min.js?ver=1.36.0" id="yith-wcqv-frontend-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/slick.min.js?ver=1.0.0" id="slick-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/custom-slick.min.js?ver=4.0" id="greenmart-custom-slick-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/jquery.sumoselect.min.js?ver=3.0.2" id="jquery-sumoselect-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/jquery.fancybox.min.js?ver=20150315" id="jquery-fancybox-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/skip-link-fix.min.js?ver=20141010" id="skip-link-fix-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.14" defer async id="revmin-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/jquery.mmenu.min.js?ver=7.0.5" id="jquery-mmenu-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/jquery.treeview.min.js?ver=1.4.0" id="jquery-treeview-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/bootstrap/bootstrap-3/bootstrap.min.js?ver=3.3.5" id="bootstrap-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/jquery.waypoints.min.js?ver=4.0.0" id="waypoints-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/detectmobilebrowser.min.js?ver=1.0.6" id="detectmobilebrowser-js"></script>
+<script type="text/javascript" id="wpb_composer_front_js-js-extra">
+/* <![CDATA[ */
+var vcData = {"currentTheme":{"slug":"greenmart"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.9.0" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/owl.carousel.min.js?ver=2.3.4" id="owl-carousel-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/custom-carousel.min.js?ver=4.0" id="greenmart-custom-carousel-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/woocommerce.min.js?ver=4.0" id="greenmart-woocommerce-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/jquery.countdowntimer.min.js?ver=1.0.0" id="jquery-countdowntimer-js"></script>
+<script type="text/javascript" id="greenmart-script-js-extra">
+/* <![CDATA[ */
+var greenmart_settings = {"storage_key":"greenmart_ca5145016f2da08043c14aaf88ae9eb6","active_theme":"organic","ajaxurl":"https:\/\/katrajdairy.com\/wp-admin\/admin-ajax.php","search_nonce":"03ccf11880","cancel":"cancel","mobile":"1","search":"Search","posts":"{\"error\":\"\",\"m\":\"\",\"p\":\"888\",\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":\"888\",\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","view_all":"View all results","no_results":"No results found","skin_elementor":"","skin_elementor_fresh":"","elements_ready":{"slick":["brands","our-team","posts-grid","testimonials","custom-image-list-categories","list-categories-product","product-categories-tabs","product-category","product-count-down","product-tabs","product-recently-viewed","product-flash-sales","products-width-banner","products"],"ajax_tabs":["product-categories-tabs","product-tabs"],"countdowntimer":["product-count-down","product-flash-sales"],"layzyloadimage":["product-count-down","brands","products","posts-grid","our-team","product-category","product-tabs","testimonials","product-categories-tabs","list-categories-product","custom-image-list-categories","product-flash-sales"]},"combined_css":"","quick_view":{"prev":"fa fa-angle-left","next":"fa fa-angle-right"},"ajax_single_add_to_cart":"1","ajax_update_quantity":"1","enable_ajax_add_to_cart":"1","quantity_mode":"","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","swatches_pro":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/functions.min.js?ver=4.0" id="greenmart-script-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/themes/greenmart/js/skins/organic/organic.min.js?ver=4.0" id="greenmart-skins-script-js"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/wp-testimonial-with-widget/assets/js/slick.min.js?ver=3.5" id="wpos-slick-jquery-js"></script>
+<script type="text/javascript" id="wtwp-public-script-js-extra">
+/* <![CDATA[ */
+var Wtwp = {"is_rtl":"0","is_avada":"0","elementor_preview":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/wp-testimonial-with-widget/assets/js/wtwp-public.js?ver=3.5" id="wtwp-public-script-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=8.3.1" id="wc-add-to-cart-variation-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.8.3.1" id="zoom-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.8.3.1" id="photoswipe-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.8.3.1" id="photoswipe-ui-default-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-single-product-js-extra">
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://katrajdairy.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=8.3.1" id="wc-single-product-js" defer="defer" data-wp-strategy="defer"></script>
+<script id="rs-initialisation-scripts">
+		var	tpj = jQuery;
+
+		var	revapi4;
+
+		if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+		if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+		RS_MODULES.modules["revslider41"] = {once: RS_MODULES.modules["revslider41"]!==undefined ? RS_MODULES.modules["revslider41"].once : undefined, init:function() {
+			window.revapi4 = window.revapi4===undefined || window.revapi4===null || window.revapi4.length===0  ? document.getElementById("rev_slider_4_1") : window.revapi4;
+			if(window.revapi4 === null || window.revapi4 === undefined || window.revapi4.length==0) { window.revapi4initTry = window.revapi4initTry ===undefined ? 0 : window.revapi4initTry+1; if (window.revapi4initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider41"].init()}); return;}
+			window.revapi4 = jQuery(window.revapi4);
+			if(window.revapi4.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_4_1"); return;}
+			revapi4.revolutionInit({
+					revapi:"revapi4",
+					DPR:"dpr",
+					visibilityLevels:"1240,1024,778,480",
+					gridwidth:"870,1024,778,480",
+					gridheight:"490,600,390,300",
+					lazyType:"smart",
+					spinner:"spinner0",
+					perspective:600,
+					perspectiveType:"local",
+					editorheight:"490,600,390,300",
+					responsiveLevels:"1240,1024,778,480",
+					ajaxUrl:"https://katrajdairy.com/wp-admin/admin-ajax.php",
+					progressBar:{disableProgressBar:true},
+					navigation: {
+						mouseScrollNavigation:false,
+						wheelCallDelay:1000,
+						onHoverStop:false,
+						arrows: {
+							enable:true,
+							style:"custom",
+							hide_onleave:true,
+							left: {
+
+							},
+							right: {
+
+							}
+						}
+					},
+					viewPort: {
+						global:true,
+						globalDist:"-200px",
+						enable:false,
+						visible_area:"20%"
+					},
+					fallbacks: {
+						allowHTML5AutoPlayOnAndroid:true
+					},
+			});
+			
+		}} // End of RevInitScript
+
+		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+	</script>
+
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 6.1 on 2024-04-02 15:41:08 -->
